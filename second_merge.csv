@@ -1,245 +1,245 @@
 Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1960,4,johnny preston,running bear,,,,
-1960,5,mark dinning,teen angel,,,,
-1960,8,jimmy jones,handy man,,,,
-1960,12,bobby rydell,wild one,,,,
-1960,13,brothers four,greenfields,,,,
-1960,14,jack scott,what in the worlds come over you,,,,
+1960,5,mark dinning,teen angel,0.33,0.447,0.182,95.094
+1960,8,jimmy jones,handy man,0.852,0.505,0.683,146.71
+1960,12,bobby rydell,wild one,0.913,0.613,0.737,147.902
+1960,13,brothers four,greenfields,0.379,0.457,0.181,109.979
+1960,14,jack scott,what in the worlds come over you,0.486,0.499,0.211,76.74
 1960,16,hollywood argyles,alleyoop,,,,
-1960,22,connie stevens,sixteen reasons,,,,
-1960,25,ventures,walk dont run,,,,
-1960,26,drifters,save the last dance for me,,,,
+1960,22,connie stevens,sixteen reasons,0.661,0.311,0.389,72.558
+1960,25,ventures,walk dont run,0.96,0.423,0.88,155.968
+1960,26,drifters,save the last dance for me,0.896,0.54,0.53,143.453
 1960,27,brook benton  dinah washington,baby,,,,
-1960,31,jimmy jones,good timin,,,,
-1960,33,jimmy clanton,go jimmy go,,,,
-1960,34,jackie wilson,night,,,,
-1960,35,jack scott,burning bridges,,,,
-1960,36,toni fisher,the big hurt,,,,
-1960,37,duane eddy,because theyre young,,,,
+1960,31,jimmy jones,good timin,0.96,0.599,0.589,145.171
+1960,33,jimmy clanton,go jimmy go,0.875,0.502,0.731,137.36
+1960,34,jackie wilson,night,0.325,0.222,0.383,101.473
+1960,35,jack scott,burning bridges,0.255,0.448,0.288,82.656
+1960,36,toni fisher,the big hurt,0.284,0.511,0.524,127.444
+1960,37,duane eddy,because theyre young,0.965,0.678,0.777,120.568
 1960,40,freddie cannon,way down yonder in new orleans,,,,
-1960,41,anita bryant,paper roses,,,,
-1960,42,larry verne,mr custer,,,,
-1960,44,fendermen,mule skinner blues,,,,
-1960,45,johnny preston,cradle of love,,,,
-1960,46,marv johnson,youve got what it takes,,,,
-1960,48,ron holden,love you so,,,,
-1960,49,hank ballard  the midnighters,finger poppin time,,,,
-1960,50,platters,harbor lights,,,,
-1960,51,billy bland,let the little girl dance,,,,
-1960,52,jeanne black,hell have to stay,,,,
+1960,41,anita bryant,paper roses,0.275,0.274,0.237,116.018
+1960,42,larry verne,mr custer,0.0613,0.83,0.228,107.862
+1960,44,fendermen,mule skinner blues,0.683,0.519,0.494,127.716
+1960,45,johnny preston,cradle of love,0.804,0.593,0.589,87.703
+1960,46,marv johnson,youve got what it takes,0.964,0.671,0.635,136.727
+1960,48,ron holden,love you so,0.56,0.446,0.399,88.805
+1960,49,hank ballard  midnighters,finger poppin time,0.686,0.491,0.591,78.009
+1960,50,platters,harbor lights,0.244,0.246,0.283,83.178
+1960,51,billy bland,let the little girl dance,0.965,0.585,0.527,143.418
+1960,52,jeanne black,hell have to stay,0.36,0.45,0.0843,81.869
 1960,53,ferrante  teicher,theme from the apartment,,,,
-1960,54,bobby rydell,volare,,,,
-1960,55,jimmy charles,a million to one,,,,
-1960,56,andy williams,the village of st bernadette,,,,
-1960,57,the browns,the old lamplighter,,,,
-1960,58,bill blacks combo,white silver sands,,,,
-1960,60,four preps,down by the station,,,,
-1960,61,little dippers,forever,,,,
-1960,62,safaris  the phantoms band,image of a girl,,,,
-1960,63,brook benton,kiddio,,,,
-1960,64,donnie brooks,mission bell,,,,
-1960,65,marv johnson,i love the way you love,,,,
-1960,74,bobby rydell,swingin school,,,,
+1960,54,bobby rydell,volare,0.863,0.506,0.661,129.615
+1960,55,jimmy charles,a million to one,0.423,0.394,0.317,102.738
+1960,56,andy williams,the village of st bernadette,0.24,0.278,0.198,86.667
+1960,57,browns,the old lamplighter,0.553,0.604,0.105,92.238
+1960,58,bill blacks combo,white silver sands,0.963,0.868,0.481,116.66
+1960,60,four preps,down by the station,0.971,0.754,0.442,118.641
+1960,61,little dippers,forever,0.367,0.504,0.286,74.219
+1960,62,safaris  phantoms band,image of a girl,,,,
+1960,63,brook benton,kiddio,0.713,0.796,0.258,112.356
+1960,64,donnie brooks,mission bell,0.853,0.588,0.504,80.27
+1960,65,marv johnson,i love the way you love,0.897,0.742,0.778,134.807
+1960,74,bobby rydell,swingin school,0.967,0.528,0.756,150.364
 1960,75,dinah washington  brook benton,a rockin good way,,,,
-1960,77,paul anka,my home town,,,,
-1960,78,ray charles,georgia on my mind,,,,
-1960,79,skip  flip,cherry pie,,,,
+1960,77,paul anka,my home town,0.97,0.698,0.512,117.453
+1960,78,ray charles,georgia on my mind,0.255,0.282,0.247,112.146
+1960,79,skip  flip,cherry pie,0.475,0.469,0.255,86.039
 1960,81,spencer ross,tracys theme,,,,
-1960,82,lloyd price,lady luck,,,,
-1960,83,crests,step by step,,,,
+1960,82,lloyd price,lady luck,0.822,0.566,0.742,122.893
+1960,83,crests,step by step,0.896,0.283,0.7,200.632
 1960,84,paul evans,happygolucky me,,,,
 1960,85,ricky nelson,young emotions,,,,
 1960,88,annette,o dio mio,,,,
-1960,89,joe jones,you talk too much,,,,
-1960,90,johnny  the hurricanes,beatnik fly,,,,
-1960,91,everly brothers,when will i be loved,,,,
+1960,89,joe jones,you talk too much,0.727,0.719,0.639,128.272
+1960,90,johnny  hurricanes,beatnik fly,,,,
+1960,91,everly brothers,when will i be loved,0.812,0.521,0.712,118.029
 1960,92,bob luman,lets think about livin,,,,
-1960,94,anita bryant,in my little corner of the world,,,,
-1960,96,bobby rydell,little bitty girl,,,,
+1960,94,anita bryant,in my little corner of the world,0.404,0.483,0.321,107.728
+1960,96,bobby rydell,little bitty girl,0.82,0.623,0.619,121.284
 1960,97,barret strong,money,,,,
 1960,98,maurice williams,stay,,,,
-1960,100,larry hall,sandy,,,,
+1960,100,larry hall,sandy,0.628,0.359,0.414,158.741
 1961,2,patsy cline,i fall to pieces,,,,
-1961,3,highwaymen,michael,,,,
+1961,3,highwaymen,michael,0.631,0.525,0.121,107.408
 1961,4,roy orbison,cryin,,,,
-1961,6,jive five,my true story,,,,
-1961,8,stringalongs,wheels,,,,
-1961,10,joe dowell,wooden heart,,,,
-1961,11,lawrence welk,calcutta,,,,
-1961,15,markeys,last night,,,,
+1961,6,jive five,my true story,0.623,0.354,0.437,184.518
+1961,8,stringalongs,wheels,0.869,0.787,0.623,128.327
+1961,10,joe dowell,wooden heart,0.858,0.595,0.174,83.015
+1961,11,lawrence welk,calcutta,0.884,0.376,0.629,81.677
+1961,15,markeys,last night,0.827,0.698,0.585,126.394
 1961,16,shirelles,tomorrow,,,,
 1961,17,ferrante  teicher,exodus,,,,
-1961,19,ray charles,hit the road jack,,,,
+1961,19,ray charles,hit the road jack,0.945,0.606,0.661,172.897
 1961,21,ernie kdoe,motherinlaw,,,,
-1961,22,dovells,bristol stomp,,,,
-1961,24,miracles,shop around,,,,
-1961,25,brook benton,the boll weevil song,,,,
+1961,22,dovells,bristol stomp,0.9,0.655,0.77,105.394
+1961,24,miracles,shop around,0.896,0.556,0.701,132.172
+1961,25,brook benton,the boll weevil song,0.911,0.795,0.144,139.888
 1961,27,dick  deedee,the mountains high,,,,
 1961,30,steve lawrence,portrait op my love,,,,
 1961,31,gary,quarter to three,,,,
-1961,32,barry mann,who put the bomp,,,,
-1961,35,jrgen ingmann,apache,,,,
-1961,36,linda scott,dont bet money honey,,,,
-1961,37,johnny tillotson,without you,,,,
-1961,40,marcels,blue moon,,,,
-1961,41,shep  the limelites,daddys home,,,,
+1961,32,barry mann,who put the bomp,0.841,0.512,0.667,86.13
+1961,35,jrgen ingmann,apache,0.248,0.644,0.492,129.089
+1961,36,linda scott,dont bet money honey,0.649,0.248,0.836,201.17
+1961,37,johnny tillotson,without you,0.753,0.297,0.58,198.691
+1961,40,marcels,blue moon,0.935,0.624,0.432,127.69
+1961,41,shep  limelites,daddys home,0.338,0.478,0.254,146.629
 1961,43,clarence frog man henry,i dont know why but i do,,,,
-1961,44,kokomo,asia minor,,,,
-1961,50,capris,theres a moon out tonight,,,,
-1961,52,paris sisters,i love how you love me,,,,
+1961,44,kokomo,asia minor,0.931,0.459,0.534,202.954
+1961,50,capris,theres a moon out tonight,0.619,0.325,0.382,201.924
+1961,52,paris sisters,i love how you love me,0.453,0.384,0.452,84.857
 1961,54,gary,school is out,,,,
 1961,55,bob moore,mexico,,,,
-1961,56,ral donner,you dont know what youve got,,,,
+1961,56,ral donner,you dont know what youve got,0.599,0.662,0.393,130.725
 1961,58,lettermen,the way you look tonight,,,,
 1961,60,ray charles,one mint julep,,,,
-1961,61,adam wade,take good care of her,,,,
+1961,61,adam wade,take good care of her,0.394,0.219,0.328,80.442
 1961,62,carla thomas,gee whiz,,,,
-1961,66,echoes,baby blue,,,,
+1961,66,echoes,baby blue,0.727,0.5,0.373,132.368
 1961,67,buzz clifford,baby sittin boogie,,,,
-1961,69,caesar  the romans,those oldies but goodies,,,,
+1961,69,caesar  romans,those oldies but goodies,,,,
 1961,72,bert kaempfert  his orch,wonderland by night,,,,
-1961,73,tony orlando,bless you,,,,
-1961,74,linda scott,ive told every little star,,,,
+1961,73,tony orlando,bless you,0.811,0.491,0.458,125.619
+1961,74,linda scott,ive told every little star,0.942,0.677,0.621,118.349
 1961,77,curtis lee,pretty little angel eyes,,,,
-1961,78,brook benton,think twice,,,,
+1961,78,brook benton,think twice,0.302,0.449,0.195,80.573
 1961,79,lonnie donegan,does your chewing gum lose its flavor,,,,
-1961,81,shirelles,mama said,,,,
+1961,81,shirelles,mama said,0.935,0.669,0.64,140.317
 1961,82,fats domino,let the four winds blow,,,,
-1961,83,adam wade,the writing on the wall,,,,
+1961,83,adam wade,the writing on the wall,0.629,0.666,0.522,120.898
 1961,84,matt monroe,my kind of girl,,,,
-1961,85,paul anka,tonight my love tonight,,,,
-1961,87,bobby rydell,good time baby,,,,
-1961,90,ray peterson,missing you,,,,
-1961,92,eddie hodges,im gonna knock on your door,,,,
+1961,85,paul anka,tonight my love tonight,0.884,0.545,0.66,125.069
+1961,87,bobby rydell,good time baby,0.854,0.506,0.844,168.78
+1961,90,ray peterson,missing you,0.372,0.545,0.266,90.504
+1961,92,eddie hodges,im gonna knock on your door,0.991,0.767,0.87,126.293
 1961,98,four preps,more money for you and me medley,,,,
-1961,99,bobby darin,you must have been a beautiful baby,,,,
+1961,99,bobby darin,you must have been a beautiful baby,0.974,0.707,0.549,134.563
 1961,100,drifters,please stay,,,,
 1962,1,mr acker bilk,stranger on the shore,,,,
 1962,5,david rose,the stripper,,,,
-1962,6,shelley fabares,johnny angel,,,,
-1962,8,sensations,let me in,,,,
-1962,10,shirelles,soldier boy,,,,
+1962,6,shelley fabares,johnny angel,0.761,0.402,0.37,107.144
+1962,8,sensations,let me in,0.837,0.61,0.848,130.446
+1962,10,shirelles,soldier boy,0.622,0.569,0.198,97.595
 1962,11,bruce channel,hey baby,,,,
-1962,14,freddy cannon,palisades park,,,,
-1962,18,johnny tillotson,it keeps right on ahurtin,,,,
-1962,21,kenny ball,midnight in moscow,,,,
+1962,14,freddy cannon,palisades park,0.952,0.504,0.807,166.103
+1962,18,johnny tillotson,it keeps right on ahurtin,0.546,0.452,0.303,100.858
+1962,21,kenny ball,midnight in moscow,0.915,0.53,0.402,166.266
 1962,24,orlons,wahwatusi,,,,
-1962,25,joey dee  the starlighters,peppermint twist,,,,
-1962,27,marvelettes,playboy,,,,
-1962,32,gary us bonds,dear lady twist,,,,
-1962,34,ketty lester,love letters,,,,
-1962,35,claudine clark,party lights,,,,
-1962,36,highwaymen,cotton fields,,,,
+1962,25,joey dee  starlighters,peppermint twist,,,,
+1962,27,marvelettes,playboy,0.939,0.867,0.702,123.842
+1962,32,gary us bonds,dear lady twist,0.932,0.442,0.953,138.442
+1962,34,ketty lester,love letters,0.271,0.567,0.218,64.412
+1962,35,claudine clark,party lights,0.701,0.645,0.6,135.593
+1962,36,highwaymen,cotton fields,0.6,0.732,0.292,135.188
 1962,37,bent fabric,alley cat,,,,
-1962,40,ace cannon,tuff,,,,
-1962,41,clyde mcphatter,lover please,,,,
-1962,42,barbara george,i know,,,,
+1962,40,ace cannon,tuff,0.215,0.409,0.02,68.93
+1962,41,clyde mcphatter,lover please,0.961,0.714,0.763,84.374
+1962,42,barbara george,i know,0.902,0.858,0.41,124.1
 1962,43,rick nelson,young world,,,,
-1962,44,shirelles,baby its you,,,,
-1962,46,burl ives,a little bitty tear,,,,
+1962,44,shirelles,baby its you,0.728,0.646,0.336,113.526
+1962,46,burl ives,a little bitty tear,0.856,0.461,0.279,143.211
 1962,48,emillo pericoli,al di la,,,,
-1962,50,don  juan,whats your name,,,,
-1962,51,corsairs,smoky places,,,,
+1962,50,don  juan,whats your name,0.795,0.55,0.38,99.789
+1962,51,corsairs,smoky places,0.738,0.605,0.483,124.197
 1962,54,ray charles,you dont know me,,,,
 1962,55,four seasons,sherry,,,,
 1962,58,joey dee,shout,,,,
 1962,63,gene pitney,the man who shot liberty valance,,,,
-1962,64,duprees,you belong to me,,,,
-1962,65,roy orbison,dream baby,,,,
+1962,64,duprees,you belong to me,0.378,0.322,0.36,97.63
+1962,65,roy orbison,dream baby,0.841,0.456,0.554,154.661
 1962,66,joe henderson,snap your fingers,,,,
-1962,69,johnny crawford,cindys birthday,,,,
+1962,69,johnny crawford,cindys birthday,0.708,0.61,0.316,110.0
 1962,70,mary wells,you beat me to the punch,,,,
-1962,72,crystals,uptown,,,,
-1962,73,brenda lee,everybody loves me but you,,,,
-1962,74,dickie lee,patches,,,,
+1962,72,crystals,uptown,0.785,0.665,0.699,112.623
+1962,73,brenda lee,everybody loves me but you,0.494,0.661,0.122,107.022
+1962,74,dickie lee,patches,0.526,0.406,0.254,102.754
 1962,75,jimmy clanton,venus in blue jeans,,,,
-1962,76,paul anka,love me warm and tender,,,,
+1962,76,paul anka,love me warm and tender,0.796,0.628,0.611,108.872
 1962,77,rick nelson,teen age idol,,,,
 1962,78,patsy cline,shes got you,,,,
-1962,79,larry finnegan,dear one,,,,
+1962,79,larry finnegan,dear one,0.748,0.367,0.896,180.644
 1962,81,walter brennan,old rivers,,,,
-1962,82,burl ives,funny way of laughin,,,,
-1962,83,billy vaughn,a swingin safari,,,,
+1962,82,burl ives,funny way of laughin,0.614,0.555,0.437,146.517
+1962,83,billy vaughn,a swingin safari,0.774,0.536,0.409,76.611
 1962,84,dick  deedee,tell me,,,,
-1962,87,billy joe  the checkmates,percolator,,,,
-1962,88,gary us bonds,twist twist senora,,,,
-1962,89,jimmy soul,twistin matilda,,,,
-1962,91,jimmy smith,walk on the wild side,,,,
-1962,94,ikettes,im blue,,,,
-1962,95,kingston trio,where have all the flowers gone,,,,
+1962,87,billy joe  checkmates,percolator,0.801,0.701,0.53,150.464
+1962,88,gary us bonds,twist twist senora,0.877,0.504,0.815,186.68
+1962,89,jimmy soul,twistin matilda,0.847,0.535,0.775,141.424
+1962,91,jimmy smith,walk on the wild side,0.504,0.379,0.417,69.016
+1962,94,ikettes,im blue,0.964,0.571,0.525,109.87
+1962,95,kingston trio,where have all the flowers gone,0.574,0.623,0.14,130.884
 1962,96,eddie hodges,were made to love,,,,
-1962,99,ronnie  the hilites,i wish that we were married,,,,
+1962,99,ronnie  hilites,i wish that we were married,0.217,0.528,0.34,100.564
 1962,100,beach boys,surfin safari,,,,
 1963,2,beach boys,surfin usa,,,,
-1963,4,cascades,rhythm of the rain,,,,
-1963,5,chiffons,hes so fine,,,,
-1963,7,paul  paula,hey paula,,,,
+1963,4,cascades,rhythm of the rain,0.672,0.659,0.66,116.634
+1963,5,chiffons,hes so fine,0.93,0.428,0.463,144.947
+1963,7,paul  paula,hey paula,0.58,0.478,0.336,108.975
 1963,8,little stevie wonder,fingertips ii,,,,
-1963,9,village stompers,washington square,,,,
-1963,10,impressions,its all right,,,,
-1963,12,angels,my boyfriends back,,,,
-1963,15,tymes,so much in love,,,,
+1963,9,village stompers,washington square,0.774,0.778,0.269,120.112
+1963,10,impressions,its all right,0.751,0.698,0.418,108.633
+1963,12,angels,my boyfriends back,0.971,0.691,0.563,136.013
+1963,15,tymes,so much in love,0.475,0.537,0.493,75.576
 1963,16,peter paul  mary,puff,,,,
-1963,18,dale  grace,im leaving it up to you,,,,
-1963,22,rebels,wild weekend,,,,
+1963,18,dale  grace,im leaving it up to you,0.723,0.528,0.429,104.766
+1963,22,rebels,wild weekend,0.879,0.554,0.65,123.583
 1963,24,four seasons,walk like a man,,,,
-1963,25,inez foxx,mockingbird,,,,
-1963,27,chantays,pipeline,,,,
-1963,30,eydie gorme,blame it on the bossa nova,,,,
-1963,31,dovells,you cant sit down,,,,
-1963,32,martha  the vandellas,heat wave,,,,
-1963,33,randy  the rainbows,denise,,,,
-1963,34,rooftop singers,walk right in,,,,
+1963,25,inez foxx,mockingbird,0.775,0.858,0.465,118.062
+1963,27,chantays,pipeline,0.805,0.444,0.552,152.575
+1963,30,eydie gorme,blame it on the bossa nova,0.848,0.681,0.442,80.171
+1963,31,dovells,you cant sit down,0.963,0.613,0.875,82.071
+1963,32,martha  vandellas,heat wave,,,,
+1963,33,randy  rainbows,denise,0.901,0.532,0.797,125.446
+1963,34,rooftop singers,walk right in,0.965,0.681,0.66,130.019
 1963,36,beach boys,surfer girl,,,,
-1963,37,trini lopez,if i had a hammer,,,,
+1963,37,trini lopez,if i had a hammer,0.867,0.468,0.933,85.505
 1963,39,essex,easier said than done,,,,
-1963,42,ruby  the romantics,our day will come,,,,
-1963,43,skeeter davis,i cant stay mad at you,,,,
-1963,45,ronettes,be my baby,,,,
-1963,46,roy orbison,mean woman blues,,,,
-1963,47,orlons,south street,,,,
-1963,49,major lance,the monkey time,,,,
+1963,42,ruby  romantics,our day will come,,,,
+1963,43,skeeter davis,i cant stay mad at you,0.816,0.543,0.763,120.62
+1963,45,ronettes,be my baby,0.818,0.511,0.769,129.657
+1963,46,roy orbison,mean woman blues,0.69,0.325,0.789,165.972
+1963,47,orlons,south street,0.713,0.543,0.318,186.595
+1963,49,major lance,the monkey time,0.94,0.777,0.541,124.184
 1963,50,four seasons,candy girl,,,,
-1963,51,bill anderson,still,,,,
+1963,51,bill anderson,still,0.301,0.515,0.131,94.043
 1963,55,ray charles,busted,,,,
-1963,56,crystals,da doo ron ron,,,,
-1963,57,shirelles,foolish little girl,,,,
-1963,58,lonnie mack,memphis,,,,
+1963,56,crystals,da doo ron ron,0.613,0.535,0.797,148.835
+1963,57,shirelles,foolish little girl,0.922,0.739,0.743,111.07
+1963,58,lonnie mack,memphis,0.971,0.521,0.774,100.954
 1963,60,kal winding,more,,,,
 1963,61,rick nelson,fools rush in,,,,
-1963,63,bill pursell,our winter love,,,,
-1963,65,miracles,youve really got a hold on me,,,,
-1963,66,jaynetts,sally go round the roses,,,,
-1963,68,crystals,then he kissed me,,,,
+1963,63,bill pursell,our winter love,0.306,0.434,0.149,76.455
+1963,65,miracles,youve really got a hold on me,0.566,0.679,0.441,118.444
+1963,66,jaynetts,sally go round the roses,0.457,0.694,0.453,146.6
+1963,68,crystals,then he kissed me,0.633,0.431,0.678,135.919
 1963,73,rufus thomas,walking the dog,,,,
-1963,74,ned miller,from a jack to a king,,,,
-1963,75,drifters,up on the roof,,,,
-1963,76,johnny mathis,what will my mary say,,,,
-1963,77,jan bradley,mama didnt lie,,,,
-1963,79,the cookies,dont say nothin bad about my baby,,,,
-1963,82,allan sherman,hello muddah hello fadduh,,,,
+1963,74,ned miller,from a jack to a king,0.833,0.627,0.44,99.223
+1963,75,drifters,up on the roof,0.777,0.584,0.489,121.891
+1963,76,johnny mathis,what will my mary say,0.309,0.235,0.452,107.0
+1963,77,jan bradley,mama didnt lie,0.931,0.741,0.595,124.675
+1963,79,cookies,dont say nothin bad about my baby,,,,
+1963,82,allan sherman,hello muddah hello fadduh,0.626,0.619,0.409,115.591
 1963,84,roll harris,tie me kangaroo down sport,,,,
 1963,85,miracles,mickeys monkey,,,,
-1963,87,nat king cole,that sunday that summer,,,,
-1963,89,al martino,painted tainted rose,,,,
+1963,87,nat king cole,that sunday that summer,0.462,0.249,0.46,82.495
+1963,89,al martino,painted tainted rose,0.394,0.228,0.417,103.529
 1963,90,dixiebelles with cornbread  jerry,papa joes,,,,
-1963,91,steve lawrence,go away little girl,,,,
-1963,92,ray charles,take these chains from my heart,,,,
-1963,93,sunny  the sunglows,talk to me,,,,
-1963,94,martha  the vandellas,come and get these memories,,,,
-1963,97,beach boys,shut down,,,,
-1963,98,chiffons,one fine day,,,,
+1963,91,steve lawrence,go away little girl,0.67,0.399,0.307,108.028
+1963,92,ray charles,take these chains from my heart,0.473,0.4,0.179,102.159
+1963,93,sunny  sunglows,talk to me,0.672,0.482,0.489,122.035
+1963,94,martha  vandellas,come and get these memories,,,,
+1963,97,beach boys,shut down,0.971,0.584,0.72,159.337
+1963,98,chiffons,one fine day,0.896,0.486,0.552,89.574
 1964,1,beatles,i want to hold your hand,,,,
 1964,2,beatles,she loves you,,,,
-1964,5,beach boys,i get around,,,,
-1964,9,j frank wilson  the cavaliers,last kiss,,,,
-1964,10,supremes,where did our love go,,,,
+1964,5,beach boys,i get around,0.514,0.39,0.625,144.338
+1964,9,j frank wilson  cavaliers,last kiss,,,,
+1964,10,supremes,where did our love go,0.847,0.566,0.49,134.934
 1964,11,barbara streissand,people,,,,
 1964,13,beatles,a hard days night,,,,
 1964,14,beatles,love me do,,,,
 1964,16,beatles,please please me,,,,
-1964,17,martha  the vandellas,dancing in the street,,,,
-1964,18,billy j kramer  the dakotas,little children,,,,
+1964,17,martha  vandellas,dancing in the street,,,,
+1964,18,billy j kramer  dakotas,little children,,,,
 1964,20,drifters,under the boardwalk,,,,
 1964,21,dixie cups,chapel of love,,,,
 1964,23,dave clark five,glad all over,,,,
@@ -247,19 +247,19 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1964,25,four seasons,dawn,,,,
 1964,28,jan  dean,dead mans curve,,,,
 1964,30,peter  gordon,a world without love,,,,
-1964,31,honeycombs,have i the right,,,,
-1964,32,serendipity singers,dont let the rain come down,,,,
+1964,31,honeycombs,have i the right,0.527,0.368,0.891,142.216
+1964,32,serendipity singers,dont let the rain come down,0.661,0.786,0.383,128.9605
 1964,33,supremes,baby love,,,,
 1964,34,betty everett  jerry butler,let it be me,,,,
 1964,38,animals,the house of the rising sun,,,,
-1964,39,ronny  the daytona,gto,,,,
+1964,39,ronny  daytona,gto,,,,
 1964,40,beatles,twist and shout,,,,
 1964,41,johnny rivers,memphis,,,,
 1964,42,danny williams,white on white,,,,
-1964,43,rip chords,hey little cobra,,,,
+1964,43,rip chords,hey little cobra,0.906,0.57,0.79,156.698
 1964,45,dave clark five,bits and pieces,,,,
 1964,47,major lance,um um um um um um,,,,
-1964,49,gerry  the pacemakers,dont let the sun catch you crying,,,,
+1964,49,gerry  pacemakers,dont let the sun catch you crying,,,,
 1964,51,stan getz  astrud gilberto,the girl from ipanema,,,,
 1964,52,beatles,cant buy me love,,,,
 1964,53,shangrilas,remember,,,,
@@ -267,7 +267,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1964,55,beatles,do you want to know a secret,,,,
 1964,56,impressions,keep on pushing,,,,
 1964,58,diane renay,navy blue,,,,
-1964,59,bachelors,diane,,,,
+1964,59,bachelors,diane,0.395,0.401,0.426,129.86
 1964,60,marketts,out of limits,,,,
 1964,61,hondells,little honda,,,,
 1964,62,bobby goldsboro,see the funny little clown,,,,
@@ -276,55 +276,55 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1964,65,rick nelson,for you,,,,
 1964,66,new christy minstrels,today,,,,
 1964,67,dave clark five,cant you see that shes mine,,,,
-1964,68,shangrilas,leader of the pack,,,,
+1964,68,shangrilas,leader of the pack,0.313,0.423,0.55,119.702
 1964,69,joe hinton,funny,,,,
 1964,70,temptations,the way you do the things you do,,,,
 1964,72,al martino,i love you more and more every day,,,,
 1964,74,four seasons,ronnie,,,,
-1964,75,trashmen,surfin bird,,,,
+1964,75,trashmen,surfin bird,0.8394999999999999,0.5754999999999999,0.9635,100.235
 1964,76,tams,what kind of fool,,,,
-1964,78,kinks,you really got me,,,,
+1964,78,kinks,you really got me,0.963,0.573,0.939,137.382
 1964,80,impressions,im so proud,,,,
 1964,81,jelly beans,i wanna love him so bad,,,,
 1964,86,kingsmen,money,,,,
 1964,87,searchers,dont throw your love away,,,,
 1964,88,tommy tucker,hiheel sneakers,,,,
-1964,89,gerry  the pacemakers,how do you do it,,,,
+1964,89,gerry  pacemakers,how do you do it,,,,
 1964,91,dave clark five,do you love me,,,,
 1964,92,robert maxwell his harp  orch,shangrila,,,,
 1964,93,gene simmons,haunted houses,,,,
 1964,94,jimmy hughes,steal away,,,,
 1964,95,beatles,i saw her standing there,,,,
-1964,97,billy j kramer  the dakotas,bad to me,,,,
+1964,97,billy j kramer  dakotas,bad to me,,,,
 1964,100,searchers,needles and pins,,,,
 1965,3,rolling stones,satisfaction,,,,
-1965,4,we five,you were on my mind,,,,
-1965,5,righteous brothers,youve lost that lovin feelin,,,,
+1965,4,we five,you were on my mind,0.638,0.533,0.533,140.494
+1965,5,righteous brothers,youve lost that lovin feelin,0.398,0.366,0.317,94.108
 1965,7,beatles,help,,,,
-1965,10,temptations,my girl,,,,
+1965,10,temptations,my girl,0.673,0.579,0.419,104.564
 1965,11,beach boys,help me rhonda,,,,
 1965,13,jewel aikens,the birds and the bees,,,,
 1965,18,ramsey lewis trio,the in crowd,,,,
-1965,20,supremes,stop in the name of love,,,,
-1965,21,righteous brothers,unchained melody,,,,
+1965,20,supremes,stop in the name of love,0.503,0.612,0.444,114.961
+1965,21,righteous brothers,unchained melody,0.26749999999999996,0.35750000000000004,0.20350000000000001,98.755
 1965,23,seekers,ill never find another you,,,,
-1965,25,byrds,mr tambourine man,,,,
-1965,30,mccoys,hang on sloopy,,,,
+1965,25,byrds,mr tambourine man,0.639,0.456,0.47,120.336
+1965,30,mccoys,hang on sloopy,0.948,0.756,0.5640000000000001,115.0755
 1965,31,beatles,ticket to ride,,,,
 1965,32,bert kaempfert  his orch,red roses for a blue lady,,,,
-1965,33,james brown  the famous flames,papas got a brand new bag,,,,
-1965,34,wayne fontana  the mindbenders,game of love,,,,
-1965,36,petula clark,i know a place,,,,
+1965,33,james brown  famous flames,papas got a brand new bag,,,,
+1965,34,wayne fontana  mindbenders,game of love,,,,
+1965,36,petula clark,i know a place,0.584,0.492,0.76,137.632
 1965,37,supremes,back in my arms again,,,,
 1965,39,kingsmen,the jolly green giant,,,,
-1965,42,freddie  the dreamers,im telling you now,,,,
-1965,43,gerry  the pacemakers,ferry cross the mersey,,,,
+1965,42,freddie  dreamers,im telling you now,,,,
+1965,43,gerry  pacemakers,ferry cross the mersey,,,,
 1965,44,righteous brothers,just once in my life,,,,
 1965,45,johnny rivers,seventh son,,,,
 1965,46,hermans hermits,im henry viii i am,,,,
-1965,48,yardbirds,for your love,,,,
+1965,48,yardbirds,for your love,0.61,0.347,0.638,94.506
 1965,49,beach boys,california girls,,,,
-1965,50,moody blues,go now,,,,
+1965,50,moody blues,go now,0.693,0.343,0.522,119.911
 1965,53,glenn yarbrough,baby the rain must fall,,,,
 1965,54,dave clark five,catch us if you can,,,,
 1965,55,beatles,eight days a week,,,,
@@ -332,16 +332,16 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1965,57,ian whitcomb,you turn me on,,,,
 1965,58,marvin gaye,ill be doggone,,,,
 1965,60,kinks,tired of waiting for you,,,,
-1965,62,kinks,all day and all of the night,,,,
+1965,62,kinks,all day and all of the night,0.6214999999999999,0.552,0.9359999999999999,136.94799999999998
 1965,65,sir douglas quintet,shes about a mover,,,,
-1965,68,martha  the vandellas,nowhere to run,,,,
+1965,68,martha  vandellas,nowhere to run,,,,
 1965,69,yardbirds,heart full of soul,,,,
 1965,70,searchers,love potion number nine,,,,
 1965,71,dickle lee,laurie,,,,
 1965,73,turtles,it aint me babe,,,,
 1965,74,zombies,tell her no,,,,
 1965,75,peter  gordon,i go to pieces,,,,
-1965,76,vic dana,red roses for a blue lady,,,,
+1965,76,vic dana,red roses for a blue lady,0.475,0.353,0.362,110.045
 1965,78,miracles,the tracks of my tears,,,,
 1965,79,brenda lee,too many rivers,,,,
 1965,80,dave clark five,i like it like that,,,,
@@ -360,37 +360,37 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1965,97,dino desi  billy,im a fool,,,,
 1965,98,ad libs,the boy from new york city,,,,
 1966,2,association,cherish,,,,
-1966,3,righteous brothers,soul and inspiration,,,,
+1966,3,righteous brothers,soul and inspiration,0.246,0.17,0.387,187.468
 1966,6,monkees,last train to clarksville,,,,
-1966,7,mamas  the papas,monday monday,,,,
+1966,7,mamas  papas,monday monday,,,,
 1966,8,supremes,you cant hurry love,,,,
 1966,9,johnny rivers,poor side of town,,,,
-1966,10,mamas  the papas,california dreamin,,,,
+1966,10,mamas  papas,california dreamin,,,,
 1966,11,lovin spoonful,summer in the city,,,,
 1966,12,roger williams,born free,,,,
 1966,16,beatles,we can work it out,,,,
 1966,17,young rascals,good lovin,,,,
-1966,18,new vaudeville band,winchester cathedral,,,,
-1966,19,tommy james  the shondells,hanky panky,,,,
-1966,21,rolling stones,paint it black,,,,
-1966,22,petula clark,my love,,,,
+1966,18,new vaudeville band,winchester cathedral,0.927,0.846,0.414,122.54
+1966,19,tommy james  shondells,hanky panky,,,,
+1966,21,rolling stones,paint it black,0.768,0.496,0.859,159.694
+1966,22,petula clark,my love,0.509,0.316,0.839,169.906
 1966,23,lou christie,lightin strikes,,,,
-1966,24,troggs,wild thing,,,,
+1966,24,troggs,wild thing,0.761,0.453,0.658,203.871
 1966,28,beatles,paperback writer,,,,
 1966,29,happenings,see you in september,,,,
-1966,30,supremes,you keep me hangin on,,,,
-1966,31,sam the sham  the pharaohs,lil red riding hood,,,,
-1966,32,mitch ryder  the detroit wheels,devil with a blue dress on and good golly miss molly,,,,
-1966,33,beach boys,good vibrations,,,,
+1966,30,supremes,you keep me hangin on,0.845,0.682,0.612,127.647
+1966,31,sam sham  pharaohs,lil red riding hood,0.528,0.712,0.412,122.211
+1966,32,mitch ryder  detroit wheels,devil with a blue dress on and good golly miss molly,,,,
+1966,33,beach boys,good vibrations,0.331,0.398,0.413,133.574
 1966,34,mindbenders,a groovy kind of love,,,,
-1966,37,sandy posey,born a woman,,,,
+1966,37,sandy posey,born a woman,0.969,0.853,0.414,116.448
 1966,38,cyrkle,red rubber ball,,,,
 1966,40,left banke,walk away renee,,,,
 1966,41,lovin spoonful,daydream,,,,
 1966,42,outsiders,time wont let me,,,,
 1966,43,tommy roe,hooray for hazel,,,,
-1966,45,hollies,bus stop,,,,
-1966,47,bj thomas  the triumphs,im so lonesome i could cry,,,,
+1966,45,hollies,bus stop,0.787,0.601,0.698,136.263
+1966,47,bj thomas  triumphs,im so lonesome i could cry,,,,
 1966,48,temptations,aint too proud to beg,,,,
 1966,49,standells,dirty water,,,,
 1966,52,ray charles,crying time,,,,
@@ -402,36 +402,36 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1966,66,tbones,no matter what shape,,,,
 1966,68,deon jackson,love makes the world go round,,,,
 1966,70,brenda lee,coming on strong,,,,
-1966,71,ray conniff  the singers,somewhere my love,,,,
+1966,71,ray conniff  singers,somewhere my love,,,,
 1966,73,bobby darin,if i were a carpenter,,,,
 1966,74,marvelettes,dont mess with bill,,,,
 1966,77,dionne warwick,message to michael,,,,
-1966,79,beach boys,barbara ann,,,,
+1966,79,beach boys,barbara ann,0.82,0.537,0.54,77.817
 1966,80,shadows of knight,gloria,,,,
 1966,81,supremes,my world is empty without you,,,,
 1966,82,bob dylan,rainy day women  and,,,,
-1966,83,sandpipers,guantanamera,,,,
+1966,83,sandpipers,guantanamera,0.648,0.318,0.257,205.852
 1966,85,shades of blue,oh how happy,,,,
 1966,86,peter  gordon,woman,,,,
 1966,87,turtles,you baby,,,,
 1966,88,vogues,five oclock world,,,,
 1966,90,beatles,nowhere man,,,,
 1966,92,slim harpo,baby scratch my back,,,,
-1966,93,gary lewis  the playboys,shes just my style,,,,
+1966,93,gary lewis  playboys,shes just my style,,,,
 1966,95,bobby fuller four,i fought the law,,,,
 1966,96,beatles,yellow submarine,,,,
-1966,97,paul revere  the raiders,hungry,,,,
-1966,99,yardbirds,shapes of things,,,,
-1967,2,box tops,the letter,,,,
+1966,97,paul revere  raiders,hungry,,,,
+1966,99,yardbirds,shapes of things,0.38,0.432,0.823,132.212
+1967,2,box tops,the letter,0.901,0.638,0.428,139.434
 1967,3,bobby gentry,ode to billie joe,,,,
 1967,4,association,windy,,,,
 1967,5,monkees,im a believer,,,,
 1967,6,doors,light my fire,,,,
 1967,7,nancy sinatra  frank sinatra,somethin stupid,,,,
-1967,8,turtles,happy together,,,,
-1967,9,young rascals,groovin,,,,
+1967,8,turtles,happy together,0.588,0.584,0.367,120.175
+1967,9,young rascals,groovin,0.678,0.605,0.455,106.825
 1967,11,music explosion,little bit o soul,,,,
-1967,15,bobby vee  the strangers,come back when you grow up,,,,
+1967,15,bobby vee  strangers,come back when you grow up,,,,
 1967,16,buckinghams,kind of a drag,,,,
 1967,18,soul survivors,expressway to your heart,,,,
 1967,20,association,never my love,,,,
@@ -439,57 +439,57 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1967,24,rolling stones,ruby tuesday,,,,
 1967,25,vicki carr,it must be him,,,,
 1967,28,supremes,love is here and now youre gone,,,,
-1967,29,supremes,the happening,,,,
+1967,29,supremes,the happening,0.832,0.344,0.745,172.124
 1967,30,beatles,all you need is love,,,,
 1967,32,marvin gaye  tammi terrell,your precious love,,,,
 1967,34,esquires,get on up,,,,
-1967,36,martha  the vandella,jimmy mack,,,,
+1967,36,martha  vandella,jimmy mack,,,,
 1967,37,happenings,i got rhythm,,,,
 1967,38,procol harum,a whiter shade of pale,,,,
 1967,39,buckinghams,dont you care,,,,
 1967,40,casinos,then you can tell me goodbye,,,,
-1967,42,hollies,on a carousel,,,,
-1967,45,tremeloes,silence is golden,,,,
+1967,42,hollies,on a carousel,0.698,0.588,0.562,121.312
+1967,45,tremeloes,silence is golden,0.582,0.436,0.565,112.169
 1967,46,ed ames,my cup runneth over,,,,
 1967,47,fifth dimension,up up and away,,,,
-1967,49,cowsills,the rain the park and other things,,,,
+1967,49,cowsills,the rain the park and other things,0.691,0.376,0.662,131.582
 1967,51,buckinghams,mercy mercy mercy,,,,
 1967,53,jackie wilson,higher and higher,,,,
 1967,54,young rascals,ive been lonely too long,,,,
 1967,55,beatles,penny lane,,,,
 1967,56,temptations,youre my everything,,,,
-1967,57,seekers,georgy girl,,,,
+1967,57,seekers,georgy girl,0.651,0.515,0.496,153.582
 1967,58,five americans,western union,,,,
 1967,60,monkees,a little bit you a little bit me,,,,
-1967,62,mamas  the papas,dedicated to the one i love,,,,
+1967,62,mamas  papas,dedicated to the one i love,0.307,0.396,0.452,103.264
 1967,63,young rascals,how can i be sure,,,,
 1967,64,hollies,carrie ann,,,,
 1967,65,blue magoos,nothin yet,,,,
 1967,66,easy beats,friday on my mind,,,,
 1967,67,barkays,soul finger,,,,
-1967,68,spencer davis group,gimme some lovin,,,,
-1967,69,hombres,let it out,,,,
+1967,68,spencer davis group,gimme some lovin,0.583,0.501,0.752,147.515
+1967,69,hombres,let it out,0.862,0.736,0.489,121.364
 1967,70,grass roots,lets live for today,,,,
-1967,72,booker t  the mgs,groovin,,,,
+1967,72,booker t  mgs,groovin,,,,
 1967,74,monkees,pleasant valley sunday,,,,
-1967,77,james brown  the famous flames,cold sweat,,,,
+1967,77,james brown  famous flames,cold sweat,,,,
 1967,78,turtles,shed rather be with me,,,,
 1967,80,ray charles,here we go again,,,,
-1967,84,royal guardsmen,snoopy vs the red baron,,,,
+1967,84,royal guardsmen,snoopy vs the red baron,0.749,0.612,0.837,126.783
 1967,85,janis ian,societys child,,,,
 1967,87,marvin gaye  tammi terrell,aint no mountain high enough,,,,
-1967,88,sandy posey,i take it back,,,,
+1967,88,sandy posey,i take it back,0.709,0.557,0.271,134.565
 1967,89,tremeloes,here comes my baby,,,,
 1967,92,bill cosby,little ole man,,,,
 1967,93,electric prunes,i had too much to dream last night,,,,
-1967,94,monkees,daydream believer,,,,
+1967,94,monkees,daydream believer,0.649,0.51,0.488,125.683
 1967,96,who,i can see for miles,,,,
 1968,1,beatles,hey jude,,,,
-1968,5,rascals,people got to be free,,,,
+1968,5,rascals,people got to be free,0.96,0.685,0.696,126.019
 1968,7,herb alpert,this guys in love with you,,,,
 1968,8,hugo montenegro,the good the bad and the ugly,,,,
 1968,9,simon  garfunkel,mrs robinson,,,,
-1968,10,archie bell  the drells,tighten up,,,,
+1968,10,archie bell  drells,tighten up,,,,
 1968,14,doors,hello i love you,,,,
 1968,16,box tops,cry like a baby,,,,
 1968,17,fifth dimension,stoned soul picnic,,,,
@@ -498,82 +498,82 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1968,22,temptations,i wish it would rain,,,,
 1968,23,delfonics,lala means i love you,,,,
 1968,24,vogues,turn around look at me,,,,
-1968,28,merrilee rush,angel of the morning,,,,
+1968,28,merrilee rush,angel of the morning,0.332,0.512,0.165,81.059
 1968,29,georgie fame,the ballad of bonnie and clyde,,,,
 1968,30,mary hopkin,those were the days,,,,
-1968,31,steppenwolf,born to be wild,,,,
+1968,31,steppenwolf,born to be wild,0.53,0.438,0.71,145.928
 1968,32,intruders,cowboys to girls,,,,
 1968,35,rascals,a beautiful morning,,,,
-1968,37,johnny nash,hold me tight,,,,
+1968,37,johnny nash,hold me tight,0.765,0.78,0.436,90.438
 1968,39,crazy world of arthur brown,fire,,,,
 1968,40,troggs,love is all around,,,,
 1968,41,gene  debbe,playboy,,,,
 1968,45,okaysions,girl watcher,,,,
-1968,47,lemon pipers,green tambourine,,,,
-1968,50,rolling stones,jumpin jack flash,,,,
-1968,52,jose feliciano,light my fire,,,,
+1968,47,lemon pipers,green tambourine,0.313,0.503,0.614,111.148
+1968,50,rolling stones,jumpin jack flash,0.619,0.6,0.91,137.361
+1968,52,jose feliciano,light my fire,0.761,0.479,0.546,108.372
 1968,53,people,i love you,,,,
 1968,55,status quo,pictures of matchstick men,,,,
 1968,57,marvin gaye  tammi terrell,aint nothing like the real thing,,,,
-1968,58,james brown  the famous flames,i got the feelin,,,,
+1968,58,james brown  famous flames,i got the feelin,,,,
 1968,60,beatles,lady madonna,,,,
-1968,63,fireballs,bottle of wine,,,,
+1968,63,fireballs,bottle of wine,0.956,0.65,0.8,136.2
 1968,64,dells,stay in my corner,,,,
 1968,65,willie mitchell,soul serenade,,,,
 1968,67,human beinz,nobody but me,,,,
 1968,68,sam  dave,i thank you,,,,
-1968,71,cowsills,indian lake,,,,
+1968,71,cowsills,indian lake,0.962,0.695,0.652,131.857
 1968,72,tommy boyce  bobby hart,i wonder what shes doing tonight,,,,
 1968,74,lettermen,goin out of my head  cant take my eyes off you,,,,
 1968,75,stevie wonder,shoobeedoobedoodaday,,,,
-1968,76,irish rovers,the unicorn,,,,
+1968,76,irish rovers,the unicorn,0.819,0.572,0.881,123.19
 1968,77,vanilla fudge,hangin on,,,,
 1968,78,beatles,revolution,,,,
-1968,80,turtles,elenore,,,,
+1968,80,turtles,elenore,0.887,0.63,0.625,122.504
 1968,82,marvin gaye  tammi terrell,youre all i need to get by,,,,
 1968,83,foundations,baby now that ive found you,,,,
 1968,84,sweet inspirations,sweet inspiration,,,,
 1968,86,mills brothers,cab driver,,,,
 1968,87,chambers brothers,time has come today,,,,
-1968,90,james brown  the famous flames,say it loud im black and im proud,,,,
+1968,90,james brown  famous flames,say it loud im black and im proud,,,,
 1968,92,shorty long,here comes the judge,,,,
-1968,95,gary lewis  the playboys,sealed with a kiss,,,,
-1968,96,big brother  the holding company,piece of my heart,,,,
+1968,95,gary lewis  playboys,sealed with a kiss,,,,
+1968,96,big brother  holding company,piece of my heart,,,,
 1968,98,american breed,bend me shape,,,,
 1968,99,jerry butler,hey western union man,,,,
-1969,1,archies,sugar sugar,,,,
+1969,1,archies,sugar sugar,0.965,0.757,0.725,122.439
 1969,2,fifth dimension,aquarius  let the sunshine in,,,,
 1969,3,temptations,i cant get next to you,,,,
 1969,4,rolling stones,honky tonk women,,,,
-1969,9,foundations,build me up buttercup,,,,
-1969,10,tommy james  the shondells,crimson and clover,,,,
-1969,13,cowsills,hair,,,,
+1969,9,foundations,build me up buttercup,0.868,0.659,0.681,132.062
+1969,10,tommy james  shondells,crimson and clover,,,,
+1969,13,cowsills,hair,0.448,0.623,0.377,112.432
 1969,14,marvin gaye,too busy thinking about my baby,,,,
 1969,15,henry mancini  his orch,love theme from romeo and juliet,,,,
-1969,16,youngbloods,get together,,,,
+1969,16,youngbloods,get together,0.58,0.542,0.492,103.064
 1969,17,friends of distinction,grazin in the grass,,,,
 1969,21,isley brothers,its your thing,,,,
-1969,23,oliver,jean,,,,
+1969,23,oliver,jean,0.394,0.323,0.127,92.637
 1969,25,beatles,get back,,,,
 1969,29,friends of distinction,going in circles,,,,
 1969,30,lettermen,hurt so bad,,,,
 1969,36,johnny cash,a boy named sue,,,,
-1969,37,smokey robinson  the miracles,baby baby dont cry,,,,
+1969,37,smokey robinson  miracles,baby baby dont cry,,,,
 1969,39,zombies,time of the season,,,,
 1969,40,fifth dimension,wedding bell blues,,,,
 1969,41,bobby sherman,little woman,,,,
 1969,44,guess who,these eyes,,,,
 1969,47,watts rd street rhythm band,do your thing,,,,
 1969,48,grass roots,id wait a million years,,,,
-1969,49,doors,touch me,,,,
-1969,54,dennis yost  the classics iv,traces,,,,
+1969,49,doors,touch me,0.769,0.425,0.903,108.748
+1969,54,dennis yost  classics iv,traces,,,,
 1969,55,mama cass elliot,its getting better,,,,
 1969,57,temptations,run away child running wild,,,,
 1969,58,ventures,hawaii fiveo,,,,
 1969,59,glen campbell,galveston,,,,
-1969,61,ray stevens,gitarzan,,,,
+1969,61,ray stevens,gitarzan,0.727,0.435,0.804,93.83
 1969,65,winstons,color him father,,,,
-1969,66,sonny charles  the checkmates ltd,black pearl,,,,
+1969,66,sonny charles  checkmates ltd,black pearl,,,,
 1969,67,fruitgum company,indian giver,,,,
 1969,68,james brown,mother popcorn,,,,
 1969,69,edwin starr,twentyfive miles,,,,
@@ -582,58 +582,58 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1969,73,nilsson,everybodys talkin,,,,
 1969,75,joe simon,chokin kind,,,,
 1969,76,flying machine,smile a little smile for me,,,,
-1969,78,kenny rogers  the first edition,ruby dont take your love to town,,,,
+1969,78,kenny rogers  first edition,ruby dont take your love to town,0.963,0.665,0.504,109.738
 1969,80,turtles,you showed me,,,,
 1969,81,cuff links,tracy,,,,
 1969,82,dells,oh what a night,,,,
 1969,83,beatles,something,,,,
 1969,85,beatles,come together,,,,
 1969,86,seger system,ramblin gamblin man bob,,,,
-1969,87,diana ross  the supremes,im gonna make you love me,,,,
+1969,87,diana ross  supremes,im gonna make you love me,,,,
 1969,91,lou rawls,your good thing,,,,
 1969,92,originals,baby im for real,,,,
 1969,93,edwin hawkins singers,oh happy day,,,,
-1969,94,tom jones,love me tonight,,,,
-1969,95,paul revere  the raiders,mr sun mr moon,,,,
+1969,94,tom jones,love me tonight,0.808,0.487,0.621,105.428
+1969,95,paul revere  raiders,mr sun mr moon,,,,
 1969,96,guess who,laughing,,,,
-1969,98,box tops,soul deep,,,,
+1969,98,box tops,soul deep,0.966,0.749,0.53,121.395
 1969,99,bj thomas,hooked on a feeling,,,,
 1969,100,box tops,sweet cream ladies,,,,
 1970,3,guess who,american woman  no sugar tonight,,,,
 1970,6,diana ross,aint no mountain high enough,,,,
 1970,7,jackson,ill be there,,,,
 1970,9,beatles,let it be,,,,
-1970,10,freda payne,band of gold,,,,
+1970,10,freda payne,band of gold,0.919,0.758,0.672,106.24
 1970,12,ray stevens,everything is beautiful,,,,
 1970,14,vanity fair,hitchin a ride,,,,
-1970,15,jackson,abc,,,,
+1970,15,jackson,abc,0.952,0.572,0.786,188.115
 1970,16,jackson,the love you save  i found that girl,,,,
 1970,17,neil diamond,cracklin rose,,,,
 1970,18,dawn,candida,,,,
-1970,19,sly  the family stone,thank you   everybody is a star,,,,
+1970,19,sly  family stone,thank you   everybody is a star,,,,
 1970,20,eric burdon  war,spill the wine,,,,
 1970,21,five stairsteps  cubie,ooh child  dear prudence,,,,
-1970,23,melanie  the edwin hawkins singers,lay down,,,,
+1970,23,melanie  edwin hawkins singers,lay down,,,,
 1970,24,temptations,ball of confusion,,,,
 1970,25,moments,love on a two way street,,,,
 1970,26,poppy family,which way you goin billy,,,,
-1970,28,jackson,i want you back,,,,
+1970,28,jackson,i want you back,0.9535,0.6705000000000001,0.6265000000000001,98.27850000000001
 1970,34,john ono lennon,instant karma,,,,
 1970,36,creedence clearwater revival,lookin out my back door  long as i can see the light,,,,
-1970,39,chairmen of the board,give me just a little more time,,,,
+1970,39,chairmen of board,give me just a little more time,,,,
 1970,41,beatles,the long and winding road  for you blue,,,,
 1970,45,jaggerz,the rapper,,,,
-1970,46,hollies,he aint heavy hes my brother,,,,
+1970,46,hollies,he aint heavy hes my brother,0.253,0.319,0.275,75.754
 1970,47,alive  kicking,tighter tighter,,,,
 1970,48,badfinger,come and get it,,,,
 1970,49,simon  garfunkel,cecelia,,,,
-1970,52,kinks,lola,,,,
+1970,52,kinks,lola,0.902,0.474,0.917,152.113
 1970,54,r dean taylor,indiana wants me,,,,
 1970,55,rare earth,im losing you,,,,
 1970,56,bobby sherman,easy come easy go,,,,
-1970,60,frijid pink,house of the rising sun,,,,
+1970,60,frijid pink,house of the rising sun,0.412,0.254,0.761,118.752
 1970,63,friends of distinction,love or let me be lonely,,,,
-1970,64,brotherhood of man,united we stand,,,,
+1970,64,brotherhood of man,united we stand,0.692,0.443,0.478,82.148
 1970,68,gene chandler,groovy situation,,,,
 1970,70,guess who,no time,,,,
 1970,71,delfonics,didnt i,,,,
@@ -641,7 +641,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1970,73,creedence clearwater revival,up around the bend  run through the jungle,,,,
 1970,75,bj thomas,i just cant help believing,,,,
 1970,76,spinners,its a shame,,,,
-1970,77,bobbi martin,for the love of him,,,,
+1970,77,bobbi martin,for the love of him,0.659,0.475,0.606,113.766
 1970,79,ike  tina turner,i want to take you higher,,,,
 1970,80,joe cocker,the letter,,,,
 1970,81,tee set,ma belle amie,,,,
@@ -666,22 +666,22 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1971,14,undisputed truth,smiling faces sometimes,,,,
 1971,18,rolling stones,brown sugar,,,,
 1971,22,paul  linda mccartney,uncle albertadmiral halsey,,,,
-1971,26,murray head  the trinidad singers,superstar,,,,
+1971,26,murray head  trinidad singers,superstar,,,,
 1971,27,free movement,i found someone of my own,,,,
 1971,29,grass roots,temptation eyes,,,,
 1971,31,george harrison,my sweet lord  isnt it a pity,,,,
-1971,34,daddy dewdrop,chickaboom,,,,
+1971,34,daddy dewdrop,chickaboom,0.964,0.781,0.734,124.55
 1971,35,carpenters,for all we know,,,,
 1971,39,cher,gypsy tramps and thieves,,,,
 1971,40,jackson,never can say goodbye,,,,
 1971,45,fuzz,i love you foe all seasons,,,,
 1971,46,dramatics,whatcha see is whatcha get,,,,
-1971,50,helen reddy,i dont know how to love him,,,,
+1971,50,helen reddy,i dont know how to love him,0.303,0.284,0.396,79.628
 1971,51,osmonds,yoyo,,,,
 1971,53,partridge family,doesnt somebody want to be wanted,,,,
 1971,54,tommy james,draggin the line,,,,
 1971,56,chicago,beginnings  color my world,,,,
-1971,57,bells,stay awhile,,,,
+1971,57,bells,stay awhile,0.432,0.558,0.268,84.559
 1971,60,paul mccartney,another day  oh woman oh why,,,,
 1971,64,th day,shes not just another woman,,,,
 1971,65,freda payne,bring the boys home,,,,
@@ -691,11 +691,11 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1971,71,mac  katie kissoon,chirpy chirpy cheep cheep,,,,
 1971,72,andy williams,love story,,,,
 1971,73,cat stevens,wild world,,,,
-1971,75,beginning of the end,funky nassau,,,,
-1971,76,olivia newtonjohn,if not for you,,,,
+1971,75,beginning of end,funky nassau,,,,
+1971,76,olivia newtonjohn,if not for you,0.903,0.611,0.675,118.983
 1971,78,bobby goldsboro,watching scotty grow,,,,
 1971,79,matthews southern comfort,woodstock,,,,
-1971,81,dave edmunds,i hear you knocking,,,,
+1971,81,dave edmunds,i hear you knocking,0.97,0.528,0.445,206.361
 1971,83,fortunes,here comes that rainy day feeling again,,,,
 1971,84,who,wont get fooled again,,,,
 1971,86,jackson,mamas pearl,,,,
@@ -704,14 +704,14 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1971,91,neil diamond,i ami said,,,,
 1971,92,paul stookey,wedding song,,,,
 1971,93,wilson pickett,dont knock my love pt,,,,
-1971,94,doors,love her madly,,,,
+1971,94,doors,love her madly,0.966,0.565,0.587,147.462
 1971,96,wadsworth mansion,sweet mary,,,,
-1971,97,brenda  the tabulations,right on the tip of my tongue,,,,
+1971,97,brenda  tabulations,right on the tip of my tongue,,,,
 1971,98,fifth dimension,one less bell to answer,,,,
-1971,99,doors,riders on the storm,,,,
+1971,99,doors,riders on the storm,0.716,0.55,0.722,103.886
 1972,4,nilsson,without you,,,,
 1972,5,sammy davis jr,candy man,,,,
-1972,10,wayne newton,daddy dont you walk so fast,,,,
+1972,10,wayne newton,daddy dont you walk so fast,0.515,0.541,0.305,146.596
 1972,13,chilites,oh girl,,,,
 1972,14,gallery,nice to be with you,,,,
 1972,15,chuck berry,my dingaling,,,,
@@ -723,7 +723,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1972,25,mouth  macneal,how do you do,,,,
 1972,26,neil diamond,song sung blue,,,,
 1972,27,america,a horse with no name,,,,
-1972,28,hot butter,popcorn,,,,
+1972,28,hot butter,popcorn,0.952,0.784,0.626,136.886
 1972,29,main ingredient,everybody plays the fool,,,,
 1972,31,th dimension,last night i didnt get to sleep at all,,,,
 1972,32,moody blues,nights in white satin,,,,
@@ -731,25 +731,25 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1972,36,osmonds,down by the lazy river,,,,
 1972,38,mel  tim,starting all over again,,,,
 1972,39,badfinger,day atter day,,,,
-1972,42,daniel boone,beautiful sunday,,,,
+1972,42,daniel boone,beautiful sunday,0.91,0.676,0.463,121.923
 1972,44,cat stevens,morning has broken,,,,
 1972,46,rick nelson,garden party,,,,
 1972,51,chakachas,jungle fever,,,,
 1972,53,dramatics,in the rain,,,,
 1972,56,t rex,bang a gong,,,,
 1972,58,roberta flack  donny hathaway,where is the love,,,,
-1972,64,dr hook  the medicine show,sylvias mother,,,,
+1972,64,dr hook  medicine show,sylvias mother,,,,
 1972,66,nilsson,coconut,,,,
-1972,70,sonny  cher,a cowboys work is never done,,,,
-1972,71,apollo,joy,,,,
+1972,70,sonny  cher,a cowboys work is never done,0.58,0.61,0.315,135.521
+1972,71,apollo,joy,0.915,0.491,0.944,130.887
 1972,74,charlie pride,kiss an angel good morning,,,,
-1972,79,sly  the family stone,family affair,,,,
-1972,80,jimmy castor bunch,troglodyte,,,,
+1972,79,sly  family stone,family affair,,,,
+1972,80,jimmy castor bunch,troglodyte,0.877,0.806,0.739,133.465
 1972,83,joe simon,power of love,,,,
 1972,84,jerry butler  brenda lee eager,aint understanding mellow,,,,
 1972,86,beverly bremers,dont say you dont rememeer,,,,
 1972,90,godspell,day by day,,,,
-1972,93,new seekers,id like to teach the world to sing,,,,
+1972,93,new seekers,id like to teach the world to sing,0.885,0.507,0.478,134.603
 1972,94,don mclean,vincent  castles in the air,,,,
 1972,95,detroit emeralds,baby let me take you,,,,
 1972,97,hillside singers,id like to teach the world to sing,,,,
@@ -768,44 +768,44 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1973,32,ojays,love train,,,,
 1973,33,barry white,im gonna love you just a little more,,,,
 1973,34,tony orlando  dawn,say has anybody seen my sweet gypsy rose,,,,
-1973,38,bobby boris pickett  the crypt kickers,monster mash,,,,
+1973,38,bobby boris pickett  crypt kickers,monster mash,,,,
 1973,41,doobie brothers,long train running,,,,
-1973,42,george harrison,give me love,,,,
+1973,42,george harrison,give me love,0.631,0.373,0.57,81.28
 1973,44,jermaine jackson,daddys home,,,,
 1973,46,new york city,im doing fine now,,,,
 1973,47,spinners,could it be im falling in love,,,,
-1973,51,dr hook  the medicine show,the cover of rolling stone,,,,
-1973,57,hurricane smith,oh babe what would you say,,,,
+1973,51,dr hook  medicine show,the cover of rolling stone,,,,
+1973,57,hurricane smith,oh babe what would you say,0.602,0.371,0.587,151.597
 1973,61,eric weissberg  steve mandel,dueling banjos,,,,
 1973,79,allman brothers,ramblin man,,,,
 1973,80,temptations,masterpiece,,,,
 1973,82,spinners,one of a kind,,,,
-1973,83,donna fargo,funny face,,,,
+1973,83,donna fargo,funny face,0.38,0.609,0.258,98.349
 1973,85,rolling stones,angie,,,,
 1973,86,blue ridge rangers,jambalaya,,,,
 1973,88,stylistics,break up to make up,,,,
-1973,89,jud strunk,daisy a day,,,,
+1973,89,jud strunk,daisy a day,0.581,0.528,0.336,88.584
 1973,93,war,gypsy man,,,,
 1973,94,war,the world is a ghetto,,,,
 1973,95,pointer sisters,yes we can can,,,,
-1973,96,edgar winter group,free ride,,,,
+1973,96,edgar winter group,free ride,0.814,0.674,0.686,124.204
 1973,99,donny osmond,the twelfth of never,,,,
 1973,100,temptations,papa was a rolling stone,,,,
-1974,3,love unlimited orchestra,loves theme,,,,
+1974,3,love unlimited orchestra,loves theme,0.712,0.589,0.61,97.072
 1974,5,jackson,dancing machine,,,,
-1974,6,gr funk railroad,the locomotion,,,,
+1974,6,gr funk railroad,the locomotion,0.279,0.483,0.95,124.694
 1974,7,mfsb,tsop,,,,
-1974,8,ray stevens,the streak,,,,
-1974,14,stylistics,you make me feel brand new,,,,
+1974,8,ray stevens,the streak,0.791,0.685,0.521,119.813
+1974,14,stylistics,you make me feel brand new,0.203,0.454,0.336,75.589
 1974,16,jim stafford,spiders and snakes,,,,
 1974,18,john denver,sunshine on my shoulder,,,,
 1974,20,blue swede,hooked on a feeling,,,,
 1974,22,paul mccartney  wings,band on the run,,,,
-1974,26,olivia newtonjohn,let me be there,,,,
+1974,26,olivia newtonjohn,let me be there,0.835,0.552,0.672,129.115
 1974,28,paul anka,having my baby,,,,
-1974,32,olivia newtonjohn,if you love me,,,,
+1974,32,olivia newtonjohn,if you love me,0.806,0.597,0.666,128.76
 1974,36,main ingredient,just dont want to be lonely,,,,
-1974,47,dionne warwick  the spinners,then came you,,,,
+1974,47,dionne warwick  spinners,then came you,,,,
 1974,48,marvin hamlisch,the entertainer,,,,
 1974,50,hollies,the air that i breathe,,,,
 1974,52,carly simon,mockingbird,,,,
@@ -820,26 +820,26 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1974,77,paul mccartney  wings,jet,,,,
 1974,79,mike oldfield,tubular bells,,,,
 1974,84,guess who,clap for the wolfman,,,,
-1974,86,sister janet mead,the lords prayer,,,,
+1974,86,sister janet mead,the lords prayer,0.633,0.64,0.395,124.164
 1974,91,diana ross  marvin gaye,my mistake was to love you,,,,
 1974,92,paul mccartney  wings,helen wheels,,,,
-1974,94,first class,beach baby,,,,
+1974,94,first class,beach baby,0.431,0.394,0.787,135.351
 1974,96,stylistics,rockin roll baby,,,,
-1974,97,olivia newtonjohn,i honestly love you,,,,
+1974,97,olivia newtonjohn,i honestly love you,0.145,0.357,0.174,131.497
 1974,99,fancy,wild thing,,,,
 1974,100,spinners,mighty love pt,,,,
 1975,7,david bowie,fame,,,,
 1975,9,eagles,one of these nights,,,,
-1975,11,bee gees,jive talkin,,,,
+1975,11,bee gees,jive talkin,0.734,0.811,0.545,105.911
 1975,12,eagles,best of my love,,,,
 1975,15,doobie brothers,black water,,,,
 1975,19,janis ian,at seventeen,,,,
-1975,21,van mccoy  the soul city symphony,the hustle,,,,
+1975,21,van mccoy  soul city symphony,the hustle,0.879,0.645,0.822,111.478
 1975,27,isley brothers,fight the power pt,,,,
 1975,29,ozark mountain daredevil,jackie blue,,,,
 1975,39,michael murphy,wildfire,,,,
 1975,44,hamilton joe frank  reynolds,fallin in love,,,,
-1975,45,morris albert,feelings,,,,
+1975,45,morris albert,feelings,0.216,0.392,0.383,80.472
 1975,48,barry white,youre the first the last my everthing,,,,
 1975,51,bazuka,dynomite,,,,
 1975,52,blackbyrds,walking in rhythm,,,,
@@ -852,7 +852,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1975,70,average white band,cut the cake,,,,
 1975,72,paul anka,i dont like to sleep alone,,,,
 1975,74,gr funk,some kind of wonderful,,,,
-1975,75,three degrees,when will i see you again,,,,
+1975,75,three degrees,when will i see you again,0.766,0.564,0.593,120.753
 1975,76,joe simon,get down get down,,,,
 1975,77,john denver,im sorry  calypso,,,,
 1975,84,rufus,you got the love,,,,
@@ -865,28 +865,28 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1975,97,amazing rhythm aces,third rate romance,,,,
 1975,98,bachmanturner overdrive,you aint seen nothin yet  free wheelin,,,,
 1975,99,frankie valli,swearin to god,,,,
-1975,100,disco tex  the sexolettes,get dancin,,,,
+1975,100,disco tex  sexolettes,get dancin,,,,
 1976,2,elton john  kiki dee,dont go breaking my heart,,,,
 1976,4,four seasons,december,,,,
-1976,6,manhattans,kiss and say goodbye,,,,
-1976,7,the miracles,love machine,,,,
-1976,10,walter murphy  the big apple band,a fifth of beethoven,,,,
-1976,14,silver convention,fly robin fly,,,,
-1976,20,sylvers,boogie fever,,,,
+1976,6,manhattans,kiss and say goodbye,0.655,0.587,0.376,129.199
+1976,7,miracles,love machine,,,,
+1976,10,walter murphy  big apple band,a fifth of beethoven,,,,
+1976,14,silver convention,fly robin fly,0.939,0.826,0.406,100.278
+1976,20,sylvers,boogie fever,0.973,0.925,0.875,132.8
 1976,21,engl dan  john ford coley,id really love to see you tonight,,,,
 1976,25,eagles,take it to the limit,,,,
 1976,33,david bowie,golden years,,,,
-1976,36,bellamy brothers,let your love flow,,,,
+1976,36,bellamy brothers,let your love flow,0.946,0.679,0.553,109.071
 1976,42,donny  marie osmond,deep purple,,,,
 1976,43,diana ross,theme from mahogany,,,,
 1976,44,rufus,sweet thing,,,,
-1976,45,kc  the sunshine band,thats the way i like it,,,,
+1976,45,kc  sunshine band,thats the way i like it,,,,
 1976,52,ojays,i love music,,,,
 1976,61,brothers johnson,ill be good to you,,,,
 1976,65,staple singers,lets do it again,,,,
 1976,67,wing  a prayer fife  drum corps,baby face,,,,
 1976,70,silver,wham bam,,,,
-1976,72,harold melvin  the bluenotes,wake up everybody,,,,
+1976,72,harold melvin  bluenotes,wake up everybody,,,,
 1976,74,john travolta,let her in,,,,
 1976,77,beatles,got to get you into my life,,,,
 1976,81,beach boys,rock and roll music,,,,
@@ -894,28 +894,28 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1976,86,ohio players,whod she coo,,,,
 1976,88,peter frampton,baby i love your way,,,,
 1976,90,neil sedaka,breaking ups hard to do,,,,
-1976,91,bay city rollers,money honey,,,,
+1976,91,bay city rollers,money honey,0.739,0.637,0.783,121.89
 1976,92,parliament,tear the roof off the sucker,,,,
 1976,93,larry groce,junk food junkie,,,,
 1976,96,rick dees,disco duck,,,,
 1976,99,who,squeeze box,,,,
 1977,3,emotions,best of my love,,,,
 1977,4,barbra streisand,love theme from a star is born,,,,
-1977,9,alan oday,undercover angel,,,,
-1977,10,mary macgregor,torn between two lovers,,,,
-1977,13,leo sayer,you make me feel like dancing,,,,
-1977,17,peter mccann,do you wanna make love,,,,
+1977,9,alan oday,undercover angel,0.725,0.673,0.663,98.618
+1977,10,mary macgregor,torn between two lovers,0.48,0.552,0.343,132.415
+1977,13,leo sayer,you make me feel like dancing,0.919,0.74,0.517,96.041
+1977,17,peter mccann,do you wanna make love,0.542,0.694,0.413,109.967
 1977,19,eagles,hotel california,,,,
 1977,20,marvin gaye,got to give it up pt,,,,
 1977,21,bill conti,theme from rocky,,,,
-1977,24,leo sayer,when i need you,,,,
+1977,24,leo sayer,when i need you,0.16,0.618,0.183,109.75
 1977,25,sylvers,hot line,,,,
 1977,27,marilyn mccoo  billy davis jr,you dont have to be a star,,,,
 1977,38,atlanta rhythm section,so in to you,,,,
 1977,40,jacksons,enjoy yourself,,,,
 1977,41,brick,dazz,,,,
 1977,54,brothers johnson,strawberry letter,,,,
-1977,55,bob seger  the silver bullet band,night moves,,,,
+1977,55,bob seger  silver bullet band,night moves,,,,
 1977,57,marshall tucker band,heard it in a love song,,,,
 1977,59,eagles,new kid in town,,,,
 1977,72,floaters,float on,,,,
@@ -927,7 +927,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1977,98,leo sayer,how much love,,,,
 1977,99,london symphony orchestra,star wars,,,,
 1977,100,cj  co,devils gun,,,,
-1978,2,bee gees,night fever,,,,
+1978,2,bee gees,night fever,0.892,0.733,0.795,109.122
 1978,9,a taste of honey,boogie oogie oogie,,,,
 1978,13,john travolta  olivia newtonjohn,youre the one that i want,,,,
 1978,14,samantha sang,emotion,,,,
@@ -937,7 +937,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1978,28,johnny mathis  deniece williams,too much too little too late,,,,
 1978,38,roberta flack  donny hathaway,the closer i get to you,,,,
 1978,42,ojays,use ta be my girl,,,,
-1978,52,bob seger  the silver bullet band,still the same,,,,
+1978,52,bob seger  silver bullet band,still the same,,,,
 1978,53,toby beau,my angel baby,,,,
 1978,54,trammps,disco inferno,,,,
 1978,65,little river band,reminiscing,,,,
@@ -947,15 +947,15 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1978,86,electric light orchestra,sweet talking woman,,,,
 1978,88,alicia bridges,i love the night life,,,,
 1978,89,high inergy,you cant turn me off,,,,
-1978,95,eruption,i cant stand the rain,,,,
-1978,99,bob seger  the silver bullet band,hollywood nights,,,,
-1979,1,knack,my sharona,,,,
-1979,3,chic,le freak,,,,
+1978,95,eruption,i cant stand the rain,0.892,0.708,0.693,108.319
+1978,99,bob seger  silver bullet band,hollywood nights,,,,
+1979,1,knack,my sharona,0.897,0.586,0.7,147.245
+1979,3,chic,le freak,0.933,0.867,0.746,118.616
 1979,10,robert john,sad eyes,,,,
 1979,12,donna summer,macarthur park,,,,
 1979,14,david naughton,makin it,,,,
-1979,15,pointer sisters,fire,,,,
-1979,19,doobie brothers,what a fool believes,,,,
+1979,15,pointer sisters,fire,0.637,0.65,0.615,118.294
+1979,19,doobie brothers,what a fool believes,0.985,0.758,0.378,120.736
 1979,20,chic,good times,,,,
 1979,21,barbra streis  neil diamond,you dont bring me flowers,,,,
 1979,23,suzi quatro  chris norman,stumblin in,,,,
@@ -963,7 +963,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1979,35,barbra streisand,the main event,,,,
 1979,39,donna summer  brooklyn dreams,heaven knows,,,,
 1979,42,little river band,lady,,,,
-1979,50,charlie daniels band,the devil went down to georgia,,,,
+1979,50,charlie daniels band,the devil went down to georgia,0.933,0.517,0.535,135.087
 1979,54,bad company,rock n roll fantasy,,,,
 1979,57,earth wind  fire,boogie wonderland,,,,
 1979,62,chic,i want your love,,,,
@@ -971,15 +971,15 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1979,66,little river band,lonesome loser,,,,
 1979,68,engl dan  john ford coley,love is the answer,,,,
 1979,77,linda ronstadt,ooh baby baby,,,,
-1979,89,babys,every time i think of you,,,,
+1979,89,babys,every time i think of you,0.421,0.395,0.641,121.451
 1979,92,robert palmer,bad case of lovin you,,,,
-1979,94,bob seger  the silver bullet band,weve got tonight,,,,
+1979,94,bob seger  silver bullet band,weve got tonight,,,,
 1979,96,nigel olsson,dancing shoes,,,,
 1980,2,pink floyd,another brick in the wall,,,,
 1980,7,paul mccartney,coming up,,,,
 1980,14,spinners,working my way back to youforgive me girl,,,,
 1980,17,cristopher cross,ride like the wind,,,,
-1980,19,kc  the sunshine band,please dont go,,,,
+1980,19,kc  sunshine band,please dont go,0.466,0.445,0.75,95.957
 1980,21,billy preston  syreeta,with you im born again,,,,
 1980,22,manhattans,shining star,,,,
 1980,24,teri de sario with kc,yes im ready,,,,
@@ -995,12 +995,12 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1980,46,brothers johnson,stomp,,,,
 1980,47,eagles,heartache tonight,,,,
 1980,49,dr hook,better love next time,,,,
-1980,51,bob seger  the silver bullet band,against the wind,,,,
+1980,51,bob seger  silver bullet band,against the wind,,,,
 1980,53,rolling stones,emotional rescue,,,,
 1980,56,little river band,cool change,,,,
 1980,58,andy gibb,desire,,,,
 1980,62,eagles,i cant tell you why,,,,
-1980,67,bob seger  the silver bullet band,fire lake,,,,
+1980,67,bob seger  silver bullet band,fire lake,,,,
 1980,72,dirt band,an american dream,,,,
 1980,76,neil sedaka  dara sedaka,shouldve never let you go,,,,
 1980,81,eagles,the long run,,,,
@@ -1010,7 +1010,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1981,2,diana ross  lionel richie,endless love,,,,
 1981,11,joey scarbury,theme from greatest american hero,,,,
 1981,16,ray parker jr  raydio,a woman needs love,,,,
-1981,19,pointer sisters,slow hand,,,,
+1981,19,pointer sisters,slow hand,0.359,0.826,0.558,110.77
 1981,22,a taste of honey,sukiyaki,,,,
 1981,24,stars on,medley,,,,
 1981,26,neil diamond,love on the rocks,,,,
@@ -1022,18 +1022,18 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1981,47,greg kihn band,the breakup song,,,,
 1981,48,alan parsons project,time,,,,
 1981,51,terri gibbs,someones knockin,,,,
-1981,52,leo sayer,more than i can say,,,,
+1981,52,leo sayer,more than i can say,0.677,0.707,0.436,96.287
 1981,53,tierra,together,,,,
 1981,55,dottie west,what are we doin in love,,,,
 1981,57,police,de do do do de da da,,,,
 1981,58,gary us bonds,this little girl,,,,
-1981,59,stevie nicks with tom petty  the heartbreakers,stop draggin my heart around,,,,
+1981,59,stevie nicks with tom petty  heartbreakers,stop draggin my heart around,,,,
 1981,61,cliff richard,a little in love,,,,
 1981,62,neil diamond,america,,,,
 1981,63,john cougar,aint even done with the night,,,,
 1981,66,alan parsons project,games people play,,,,
 1981,70,neil diamond,hello again,,,,
-1981,71,police,dont stand so close to me,,,,
+1981,71,police,dont stand so close to me,0.591,0.796,0.531,140.369
 1981,74,george harrison,all those years ago,,,,
 1981,76,billy squier,the stroke,,,,
 1981,78,stanley clarke  george duke,sweet baby,,,,
@@ -1046,13 +1046,13 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1981,96,gary wright,really wanna know you,,,,
 1981,100,andy gibb,time is time,,,,
 1982,4,paul mccartney  stevie wonder,ebony and ivory,,,,
-1982,5,j geils band,centerfold,,,,
-1982,6,human league,dont you want me,,,,
+1982,5,j geils band,centerfold,0.8815,0.665,0.77,114.349
+1982,6,human league,dont you want me,0.958,0.731,0.738,117.656
 1982,7,john cougar,jack and diane,,,,
 1982,8,john cougar,hurts so good,,,,
 1982,10,chicago,hard to say im sorry,,,,
 1982,16,tommy tutone,,,,,
-1982,23,cars,shake it up,,,,
+1982,23,cars,shake it up,0.864,0.692,0.74,147.274
 1982,25,gogos,we got the beat,,,,
 1982,29,motels,only the lonely,,,,
 1982,32,alan parsons project,eye in the sky,,,,
@@ -1060,12 +1060,12 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1982,41,little river band,take it easy on me,,,,
 1982,42,buckner  garcia,pacman fever,,,,
 1982,46,roberta flack,making love,,,,
-1982,49,j geils band,freezeframe,,,,
+1982,49,j geils band,freezeframe,0.934,0.573,0.806,186.328
 1982,56,royal philharmonic orchestra,hooked on classics,,,,
 1982,57,crosby stills  nash,wasted on the way,,,,
 1982,61,quincy jones,owe hundred ways,,,,
 1982,62,elton john,blue eyes,,,,
-1982,63,gogos,our lips are sealed,,,,
+1982,63,gogos,our lips are sealed,0.964,0.62,0.819,131.223
 1982,64,sheena easton,you could have been wih me,,,,
 1982,70,paul mccartney,take it away,,,,
 1982,71,deneice williams,its gonna take a miracle,,,,
@@ -1080,20 +1080,20 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1982,94,rolling stones,waiting on a friend,,,,
 1982,97,greg guidry,goin down,,,,
 1982,99,kenny rogers,through the years,,,,
-1983,1,police,every breath you take,,,,
+1983,1,police,every breath you take,0.738,0.825,0.449,117.399
 1983,3,irene cara,flashdance what a feeling,,,,
 1983,8,patti austin  james ingram,baby come to me,,,,
 1983,10,eurythmics,sweet dreams,,,,
 1983,12,eddie rabbitt  crystal gayle,you and i,,,,
-1983,14,bob seger  the silver bullet band,shame on the moon,,,,
+1983,14,bob seger  silver bullet band,shame on the moon,,,,
 1983,18,david bowie,lets dance,,,,
-1983,21,greg kihn band,jeopardy,,,,
+1983,21,greg kihn band,jeopardy,0.89,0.851,0.808,110.566
 1983,22,eddy grant,electric avenue,,,,
 1983,23,thomas dolby,she blinded me withh science,,,,
 1983,27,joe cocker  jennifer warnes,up where we belong,,,,
-1983,33,human league,fascination,,,,
-1983,35,men without hats,the safety dance,,,,
-1983,36,toni basil,mickey,,,,
+1983,33,human league,fascination,0.703,0.711,0.624,118.137
+1983,35,men without hats,the safety dance,0.623,0.525,0.882,101.674
+1983,36,toni basil,mickey,0.968,0.674,0.913,148.891
 1983,37,phil collins,you cant hurry love,,,,
 1983,40,kenny rogers  sheena easton,weve got tonight,,,,
 1983,46,naked eyes,always somethmg there to remind me,,,,
@@ -1105,16 +1105,16 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1983,65,little river band,the other guy,,,,
 1983,96,peabo bryson  roberta flack,tonight i celebrate my love,,,,
 1984,3,paul mccartney  michael jackson,say say say,,,,
-1984,5,phil collins,against all odds,,,,
-1984,18,pointer sisters,jump,,,,
+1984,5,phil collins,against all odds,0.139,0.594,0.444,116.225
+1984,18,pointer sisters,jump,0.854,0.86,0.705,134.395
 1984,19,romantics,talking in your sleep,,,,
-1984,21,prince  the revolution,lets go crazy,,,,
+1984,21,prince  revolution,lets go crazy,,,,
 1984,26,rockwell,somebodys watching me,,,,
 1984,38,eurythmics,here comes the rain again,,,,
-1984,41,cars,drive,,,,
-1984,44,huey lewis  the news,the heart of rock n roll,,,,
+1984,41,cars,drive,0.504,0.582,0.606,111.441
+1984,44,huey lewis  news,the heart of rock n roll,,,,
 1984,46,scandal,the warrior,,,,
-1984,48,pointer sisters,automatic,,,,
+1984,48,pointer sisters,automatic,0.918,0.827,0.553,110.605
 1984,50,julio iglesias  willie nelson,to all the girls ive loved before,,,,
 1984,56,kenny rogers  dolly parton,islands in the stream,,,,
 1984,59,mike reno  ann wilson,almost paradise,,,,
@@ -1124,7 +1124,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1984,69,irene cara,breakdance,,,,
 1984,71,tracy ullman,they dont know,,,,
 1984,75,kc,give it up,,,,
-1984,76,pointer sisters,im so excited,,,,
+1984,76,pointer sisters,im so excited,0.692,0.685,0.858,92.305
 1984,80,ollie and jerry,breakin theres no stopping us,,,,
 1984,81,john lennon,nobody told me,,,,
 1984,82,culture club,church of the poison mind,,,,
@@ -1133,7 +1133,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1984,88,gogos,head over heels,,,,
 1984,92,shalamar,dancing in the sheets,,,,
 1984,93,rolling stones,undercover of the night,,,,
-1984,97,cars,magic,,,,
+1984,97,cars,magic,0.9615,0.7065,0.753,117.83099999999999
 1984,100,james ingram  michael mcdonald,yah mo b there,,,,
 1985,1,wham,careless whisper,,,,
 1985,4,foreigner,i want to know what love is,,,,
@@ -1144,41 +1144,41 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1985,29,teena marie,lover girl,,,,
 1985,33,phil collins,one more night,,,,
 1985,34,honeydrippers,sea of love,,,,
-1985,38,pointer sisters,neutron dance,,,,
+1985,38,pointer sisters,neutron dance,0.812,0.724,0.684,104.318
 1985,45,phil collins,sussudio,,,,
 1985,50,phil collins  marilyn martin,separate lives,,,,
-1985,51,prince  the revolution,raspberry beret,,,,
+1985,51,prince  revolution,raspberry beret,,,,
 1985,60,tears for fears,head over heels,,,,
 1985,64,phil collins,dont lose my number,,,,
 1985,70,eurythmics,would i lie to you,,,,
 1985,79,power station,some like it hot,,,,
 1985,83,daryl hall  john oates,method op modern love,,,,
 1985,86,john cougar mellencamp,lonely ol night,,,,
-1985,91,the time,jungle of love,,,,
+1985,91,time,jungle of love,,,,
 1985,93,tina turner,private dancer,,,,
 1986,1,dionne  friends,thats what friends are for,,,,
 1986,4,patti labelle  michael mcdonald,on my own,,,,
 1986,8,survivor,burning heart,,,,
 1986,10,robert palmer,addicted to love,,,,
 1986,13,carl anderson  gloria loring,friends and lovers,,,,
-1986,19,prince  the revolution,kiss,,,,
+1986,19,prince  revolution,kiss,,,,
 1986,25,human league,human,,,,
-1986,28,falco,rock me amadeus,,,,
+1986,28,falco,rock me amadeus,0.89,0.61,0.817,176.735
 1986,31,billy ocean,when the going gets tough,,,,
 1986,33,heart,these dreams,,,,
 1986,42,kenny loggins,danger zone,,,,
-1986,45,sly fox,lets go all the way,,,,
-1986,48,bangles,manic monday,,,,
+1986,45,sly fox,lets go all the way,0.865,0.633,0.714,98.149
+1986,48,bangles,manic monday,0.8414999999999999,0.6835,0.605,121.6955
 1986,52,jets,crush on you,,,,
-1986,53,orchestral manoeuvres in the dark,if you leave,,,,
+1986,53,orchestral manoeuvres in dark,if you leave,,,,
 1986,61,lisa lisa  cult jam with full force,all cried out,,,,
-1986,62,outfield,your love,,,,
+1986,62,outfield,your love,0.582,0.555,0.757,129.607
 1986,65,james brown,living in america,,,,
 1986,66,john cougar mellencamp,rock in the usa,,,,
 1986,72,john cougar mellencamp,small town,,,,
 1986,75,michael mcdonald,sweet freedom,,,,
 1986,77,timex social club,rumors,,,,
-1986,78,dream academy,life in a northern town,,,,
+1986,78,dream academy,life in a northern town,0.432,0.563,0.476,121.67
 1986,81,cars,tonight she comes,,,,
 1986,82,rod stewart,love touch,,,,
 1986,85,regina,baby love,,,,
@@ -1186,8 +1186,8 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1986,89,rundmc,walk this way,,,,
 1986,91,moody blues,your wildest dreams,,,,
 1986,92,paul mccartney,spies like us,,,,
-1987,1,bangles,walk like an egyptian,,,,
-1987,8,bruce hornsby  the range,the way it is,,,,
+1987,1,bangles,walk like an egyptian,0.788,0.717,0.84,103.043
+1987,8,bruce hornsby  range,the way it is,,,,
 1987,16,jody watley,looking for a new love,,,,
 1987,24,george michael,i want your sex,,,,
 1987,27,bill medley  jennifer warnes,the time of my life,,,,
@@ -1196,18 +1196,18 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1987,36,aretha franklin  george michael,i knew you were waiting,,,,
 1987,39,linda ronstadt  james ingram,somewhere out there,,,,
 1987,43,jets,you got it all,,,,
-1987,44,samantha fox,touch me,,,,
+1987,44,samantha fox,touch me,0.722,0.664,0.679,104.851
 1987,45,michael jackson  siedah garrett,i just cant stop loving you,,,,
 1987,57,system,dont disturb this groove,,,,
 1987,63,dan hill,cant we try,,,,
-1987,65,bruce hornsby  the range,mandolin rain,,,,
+1987,65,bruce hornsby  range,mandolin rain,,,,
 1987,72,gloria estefan  miami sound machine,rhythm is gonna get you,,,,
 1987,73,whispers,rock steady,,,,
 1987,75,peter gabriel,big time,,,,
 1987,88,heart,who will you run too,,,,
 1987,89,bruce willis,respect yourself,,,,
 1987,90,jets,cross my broken heart,,,,
-1987,91,kool  the gang,victory,,,,
+1987,91,kool  gang,victory,,,,
 1987,96,kenny loggins,meet me half way,,,,
 1987,99,pseudo echo,funkytown,,,,
 1988,3,george harrison,got my mind set on you,,,,
@@ -1219,7 +1219,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1988,35,bangles,hazy shade of winter,,,,
 1988,38,eric carnen,make me lose control,,,,
 1988,40,patric swayze,shes like the wind,,,,
-1988,42,beach boys,kokomo,,,,
+1988,42,beach boys,kokomo,0.9245000000000001,0.683,0.639,115.5775
 1988,45,george michael,monkey,,,,
 1988,50,pet shop boys  dusty springfield,what have i done to deserve this,,,,
 1988,51,jets,make it real,,,,
@@ -1227,8 +1227,8 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1988,60,pebbles,girlfriend,,,,
 1988,62,gloria estefan  miami sound machine,,,,,
 1988,68,jets,rocket  u,,,,
-1988,78,bruce hornsby  the range,the valley road,,,,
-1988,80,pet shop boys,always on my mind,,,,
+1988,78,bruce hornsby  range,the valley road,,,,
+1988,80,pet shop boys,always on my mind,0.726,0.533,0.783,124.874
 1988,81,brenda russell joe esposito,piano in the dark,,,,
 1988,90,gloria estefan  miami sound machine,cant stay away from you,,,,
 1988,92,john cougar mellancamp,cherry bomb,,,,
@@ -1239,11 +1239,11 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1989,16,milli vanilli,girl im gonna miss you,,,,
 1989,24,simply red,if you dont know be by now,,,,
 1989,29,martika,toy solider,,,,
-1989,31,mike  the mechanics,the living years,,,,
+1989,31,mike  mechanics,the living years,0.277,0.527,0.429,97.893
 1989,33,tone loc,wild thing,,,,
 1989,45,michael damian,rock on,,,,
 1989,46,jody watley,real love,,,,
-1989,47,bs,love shack,,,,
+1989,47,bs,love shack,0.903,0.701,0.803,133.608
 1989,50,rod stewart,my heart cant tell you no,,,,
 1989,57,donny osmond,soldier of love,,,,
 1989,62,duran duran,i dont want your love,,,,
@@ -1258,7 +1258,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1989,77,lita ford,close my eyes forever,,,,
 1989,79,cher  peter cetera,after all,,,,
 1989,83,when in rome,this promise,,,,
-1989,84,edie brickell  the new bohemians,what i am,,,,
+1989,84,edie brickell  new bohemians,what i am,,,,
 1989,85,boys club,i remember holding you,,,,
 1989,87,samantha fox,iwanna have some fun,,,,
 1989,89,vanessa williams,dreamin,,,,
@@ -1271,7 +1271,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1990,20,linda ronstadt  aaron neville,dont know much,,,,
 1990,24,glenn medeiros bobby brown,she aint worth it,,,,
 1990,27,nelson,love and affection,,,,
-1990,40,bs,roam,,,,
+1990,40,bs,roam,0.694,0.636,0.939,134.937
 1990,51,george michael,praying for time,,,,
 1990,53,phil collins,do you remember,,,,
 1990,56,phil collins,i wish it would rain down,,,,
@@ -1279,15 +1279,15 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1990,66,depeche mode,enjoy the silence,,,,
 1990,69,tyler collins,girls nite out,,,,
 1990,70,go west,king of wishful thinking,,,,
-1990,78,bs,love shack,,,,
+1990,78,bs,love shack,0.903,0.701,0.803,133.608
 1990,80,dino,romeo,,,,
 1990,85,dmob with cathy dennis,cmon and get my love,,,,
-1990,87,the cover girls,we cant go wrong,,,,
+1990,87,cover girls,we cant go wrong,,,,
 1990,95,ame lorain,whole wide world,,,,
-1990,97,jive bunny  the master mixers,swing the mood,,,,
+1990,97,jive bunny  master mixers,swing the mood,,,,
 1990,100,kyper,tictactoe,,,,
 1991,3,cc music factory,gonna make you sweat,,,,
-1991,20,marky mark  the funky bunch loleatta holloway,good vibrations,,,,
+1991,20,marky mark  funky bunch loleatta holloway,good vibrations,0.896,0.709,0.985,121.641
 1991,30,cathy dennis,touch me,,,,
 1991,32,natural selection,do anything,,,,
 1991,36,cc music factory,here we go,,,,
@@ -1297,11 +1297,11 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1991,53,dma,toms diner,,,,
 1991,56,nelson,after the rain,,,,
 1991,58,corina,temptation,,,,
-1991,61,the klf,am eternal,,,,
+1991,61,klf,am eternal,,,,
 1991,63,enigrna,saideness part i,,,,
 1991,65,escape club,ill be there,,,,
-1991,66,prince and the npg,cream,,,,
-1991,67,heavy d  the boyz,now that we found love,,,,
+1991,66,prince and npg,cream,,,,
+1991,67,heavy d  boyz,now that we found love,,,,
 1991,74,cathy dennis,too many walls,,,,
 1991,78,poison,something to believe in,,,,
 1991,79,chris issak,wicked game,,,,
@@ -1316,48 +1316,48 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1992,2,sir mix alot,baby got back,,,,
 1992,16,mariah carey,ill be there,,,,
 1992,22,patty smyth,sometimes love just aint enough,,,,
-1992,25,prince  the npg,diamonds and pearls,,,,
+1992,25,prince  npg,diamonds and pearls,,,,
 1992,26,george michael  elton john,dont let the sun go down on me,,,,
 1992,35,teven campbell,tell me what you want me to do,,,,
 1992,41,luther vandross  janet jackson,the best things in life are free,,,,
 1992,46,hammer,legit  quit,,,,
-1992,47,kws,please dont go,,,,
+1992,47,kws,please dont go,0.594,0.725,0.954,120.248
 1992,49,cover girls,wishing on a star,,,,
 1992,58,george michael,too funky,,,,
-1992,59,heights,how do you talk to an angel,,,,
+1992,59,heights,how do you talk to an angel,0.526,0.404,0.51,80.643
 1992,64,calms dion and peabo bryson,beauty and the beast,,,,
 1992,68,genesis,no son of nine,,,,
-1992,71,cure,friday im in love,,,,
+1992,71,cure,friday im in love,0.458,0.553,0.946,135.977
 1992,76,hammer,addams groove,,,,
 1992,77,michael bolton,missing you now,,,,
 1992,79,kathy troccoli,everything changes,,,,
 1992,80,def leppard,have you ever needed somone so bad,,,,
-1992,81,richard marx,take this heart,,,,
-1992,86,the klf,justified and ancient,,,,
+1992,81,richard marx,take this heart,0.551,0.612,0.694,115.53
+1992,86,klf,justified and ancient,,,,
 1992,87,color me badd,slow motion,,,,
 1992,89,color me badd,thinkin back,,,,
 1992,92,richard marx,keep coming back,,,,
 1992,95,mr big,just take my heart,,,,
-1993,2,tag team,whoomp,,,,
+1993,2,tag team,whoomp,0.433,0.798,0.649,129.422
 1993,3,ub,cant help falling in love,,,,
 1993,11,dr dre,nuthin but a g thang,,,,
 1993,18,peabo bryson  regina belle,a whole new world,,,,
 1993,21,vanessa willlams  brian mcknight,love is,,,,
 1993,23,expose,ill never get over you,,,,
-1993,27,proclaimers,im gonna be,,,,
+1993,27,proclaimers,im gonna be,0.807,0.851,0.551,131.922
 1993,29,swv,right here downtown,,,,
 1993,32,rod stewart,have i told you lately,,,,
 1993,44,south,whoot there it is,,,,
 1993,48,shil,comforter,,,,
-1993,52,prince  the new power generation,,,,,
+1993,52,prince  new power generation,,,,,
 1993,53,dr dre,dre day,,,,
 1993,56,pac,i get around,,,,
 1993,64,zhane,hey mr dj,,,,
-1993,68,jeremy jordan,the right kind of love,,,,
+1993,68,jeremy jordan,the right kind of love,0.896,0.717,0.634,178.064
 1993,70,boy krazy,thats what love can do,,,,
 1993,75,jazzy jeff  fresh prince,boom shake the room,,,,
 1993,79,captain hollywood project,more and more,,,,
-1993,80,heights,how do you talk to an angel,,,,
+1993,80,heights,how do you talk to an angel,0.526,0.404,0.51,80.643
 1993,82,haddaway,what is love,,,,
 1993,88,dino,ooh child,,,,
 1993,92,joey lawrence,nothin my love cant fix,,,,
@@ -1366,7 +1366,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1994,14,saltnpepa,whatta man,,,,
 1994,15,john mellencamp  meshell ndegeocello,wild night,,,,
 1994,16,mariah carey,without you  never forget you,,,,
-1994,19,the artist formerly known as prince,the most beautiful girl in the world,,,,
+1994,19,artist formerly known as prince,the most beautiful girl in the world,,,,
 1994,21,big mountain,baby i love your way,,,,
 1994,22,warren g  nate dogg,regulate,,,,
 1994,23,jon secada,if you go,,,,
@@ -1374,15 +1374,15 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1994,30,janet jackson,any time any place  and on and on,,,,
 1994,40,maniacs,because the night,,,,
 1994,41,us,cantaloop,,,,
-1994,42,tag team,whoomp,,,,
-1994,49,cranberries,linger,,,,
+1994,42,tag team,whoomp,0.433,0.798,0.649,129.422
+1994,49,cranberries,linger,0.181,0.447,0.64,94.854
 1994,52,snoop doggy dogg,gin and juice,,,,
 1994,56,luther vandross  mariah carey,endless love,,,,
 1994,59,warren g,this dj,,,,
 1994,62,snoop doggy dogg,who am i,,,,
-1994,75,gabrielle,dreams,,,,
+1994,75,gabrielle,dreams,0.568,0.751,0.467,98.783
 1994,80,eternal,stay,,,,
-1994,85,ini kamoze,here comes the hotstepper,,,,
+1994,85,ini kamoze,here comes the hotstepper,0.4675,0.867,0.49650000000000005,100.3655
 1994,86,phil collins,everyday,,,,
 1994,89,four seasons,december,,,,
 1994,93,ahmad,back in the day,,,,
@@ -1391,11 +1391,11 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1994,97,haddaway,what is love,,,,
 1994,99,ice cube,bop gun,,,,
 1995,18,shaggy,boombastic  in the summertime,,,,
-1995,19,nicki french,total eclipse of the heart,,,,
+1995,19,nicki french,total eclipse of the heart,0.486,0.603,0.789,136.049
 1995,23,notorious big,one more chancestay with me,,,,
-1995,24,ini kamoze,here comes the hotstepper,,,,
+1995,24,ini kamoze,here comes the hotstepper,0.4675,0.867,0.49650000000000005,100.3655
 1995,27,blessid union of souls,i believe,,,,
-1995,31,vanessa williams,colors of the wind,,,,
+1995,31,vanessa williams,colors of the wind,0.153,0.561,0.388,83.997
 1995,32,jon b,someone to love,,,,
 1995,42,method manmary j blige,ill be there for youyoure all i need to get by,,,,
 1995,47,notorious big,big poppa  warning,,,,
@@ -1412,19 +1412,19 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1995,83,raphael saadiq,ask of you,,,,
 1995,90,melissa etheridge,like the way i doif i wanted to,,,,
 1995,92,stevie b,dream about youfunky melody,,,,
-1995,95,pretenders,ill stand by you,,,,
+1995,95,pretenders,ill stand by you,0.266,0.438,0.606,133.822
 1995,96,n ii u,i miss you,,,,
 1996,2,mariah carey  boyz ii men,one sweet day,,,,
-1996,4,tony rich project,nobody knows,,,,
+1996,4,tony rich project,nobody knows,0.25,0.64,0.433,176.088
 1996,9,toni braxton,youre makin me high  let it flow,,,,
-1996,12,everything but the girl,missing,,,,
+1996,12,everything but girl,missing,,,,
 1996,14,whitney houston,exhale,,,,
 1996,15,gin blossoms,follow you down  til i hear it from you,,,,
 1996,17,pac,how do u want it  california love,,,,
 1996,20,ll cool j,hey lover,,,,
 1996,24,goo goo dolls,name,,,,
 1996,29,alanis morissette,you learn  you oughta know,,,,
-1996,34,the notorious big,only you,,,,
+1996,34,notorious big,only you,,,,
 1996,35,r kelly,down low,,,,
 1996,38,monica,before you walk out of my life  like this and like that,,,,
 1996,46,monica,why i love you so much  aint nobody,,,,
@@ -1436,7 +1436,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1996,66,adam clayton  larry mullen,theme from mission impossible,,,,
 1996,69,aaliyah,if your girl only knew,,,,
 1996,73,keith sweat,nobody,,,,
-1996,74,hootie  the blowfish,old man and me,,,,
+1996,74,hootie  blowfish,old man and me,,,,
 1996,77,mc lyte,keep on keepin on,,,,
 1996,87,total,no one else,,,,
 1996,88,ghost town djs,my boo,,,,
@@ -1447,7 +1447,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1997,5,puff daddy,cant nobody hold me down,,,,
 1997,16,keith sweat,nobody,,,,
 1997,20,notorious big,mo money mo problems,,,,
-1997,21,verve pipe,the freshmen,,,,
+1997,21,verve pipe,the freshmen,0.279,0.577,0.497,99.662
 1997,23,blackstreet dr dre,no diggity,,,,
 1997,25,notorious big,hypnotize,,,,
 1997,26,babyface,every time i close my eyes,,,,
@@ -1455,21 +1455,21 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1997,34,freaknasty,da dip,,,,
 1997,40,tim mcgraw  faith hill,its your love,,,,
 1997,41,gina g,ooh aah just a little bit,,,,
-1997,43,allure,all cried out,,,,
+1997,43,allure,all cried out,0.18,0.594,0.541,139.827
 1997,45,degrees,invisible man,,,,
 1997,53,barbra streis  bryan adams,i finally found someone,,,,
 1997,58,magoo and timbaland,up jumps da boogie,,,,
 1997,59,toni braxton,i dont want to  i love me some him,,,,
 1997,66,coolio,c u when u get there,,,,
-1997,68,brock  the bizz,my baby daddy,,,,
+1997,68,brock  bizz,my baby daddy,,,,
 1997,70,r kelly,gotham city,,,,
 1997,72,various artists,espn presents the jock jam,,,,
 1997,74,total,what about us,,,,
 1997,75,scarface,smile,,,,
 1997,78,aaliyah,the one i gave my heart to,,,,
-1997,85,warren g,i shot the sheriff,,,,
+1997,85,warren g,i shot the sheriff,0.78,0.859,0.691,91.454
 1997,88,swv,someone,,,,
-1997,90,real mccoy,one more time,,,,
+1997,90,real mccoy,one more time,0.855,0.671,0.862,133.117
 1997,95,cranberries,when youre gone  free to decide,,,,
 1997,96,dj kool,let me clear my throat,,,,
 1997,97,blackout allstars,i like it,,,,
@@ -1479,7 +1479,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1998,6,janet,together again,,,,
 1998,12,destinys child,no no no,,,,
 1998,13,celine dion,my heart will go on,,,,
-1998,19,puff daddy  the family,been around the world,,,,
+1998,19,puff daddy  family,been around the world,,,,
 1998,22,backstreet boys,everybody,,,,
 1998,23,aerosmith,i dont want to miss a thing,,,,
 1998,24,public announcement,body bumpin yippieyiyo,,,,
@@ -1491,7 +1491,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1998,38,five,when the lights go out,,,,
 1998,40,master p,make em say uhh,,,,
 1998,41,nicole missy misdemeanor elliott  mocha,make it hot,,,,
-1998,42,all saints,never ever,,,,
+1998,42,all saints,never ever,0.31,0.739,0.541,134.196
 1998,43,janet,i get lonely,,,,
 1998,47,puff daddy,come with me,,,,
 1998,48,sylke fyne,romeo and juliet,,,,
@@ -1502,14 +1502,14 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1998,60,leann rimes,looking through your eyes,,,,
 1998,61,divine,lately,,,,
 1998,67,master p,i got the hook up,,,,
-1998,68,puff daddy  the family,victory,,,,
+1998,68,puff daddy  family,victory,,,,
 1998,70,pras feat ol dirty bastard  mya,ghetto supastar,,,,
 1998,71,dru hill redman,how deep is your love,,,,
 1998,73,busta rhymes,turn it up remix  fire it up,,,,
 1998,78,lox,money power  respect,,,,
 1998,82,degrees,because of you,,,,
 1998,83,loreena mckennitt,the mummers dance,,,,
-1998,84,allure,all cried out,,,,
+1998,84,allure,all cried out,0.18,0.594,0.541,139.827
 1998,85,big punisher joe,still not a player,,,,
 1998,86,aaliyah,the one i gave my heart to,,,,
 1998,87,jewel,foolish games  you were meant for me,,,,
@@ -1520,7 +1520,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1998,97,ll cool j,father,,,,
 1998,98,gerald levert,thinkin bout it,,,,
 1999,4,whitney houston,heartbreak hotel,,,,
-1999,13,goo goo dolls,slide,,,,
+1999,13,goo goo dolls,slide,0.476,0.383,0.844,112.31049999999999
 1999,16,r kelly  celine dion,im your angel,,,,
 1999,27,busta rhymes janet,whats it gonna be,,,,
 1999,31,divine,lately,,,,
@@ -1546,13 +1546,13 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1999,81,case  joe,faded pictures,,,,
 1999,87,mo thugs family bone thugsnharmony,ghetto cowboy,,,,
 1999,91,blackstreet  mya mase  blinky blink,take me there,,,,
-1999,94,goo goo dolls,iris,,,,
+1999,94,goo goo dolls,iris,0.505,0.303,0.7525,155.796
 1999,95,puff daddy r kelly,satisfy you,,,,
 1999,97,n sync  gloria estefan,music of my heart,,,,
 1999,99,whitney houston  mariah carey,when you believe,,,,
 1999,100,alabama n sync,god must have spent a little more time on you,,,,
-2000,3,santana the product gandb,maria maria,,,,
-2000,12,aaliyah,try again,,,,
+2000,3,santana product gandb,maria maria,,,,
+2000,12,aaliyah,try again,0.762,0.783,0.58,93.026
 2000,16,pink,there you go,,,,
 2000,18,janet,doesnt really matter,,,,
 2000,21,n sync,bye bye bye,,,,
@@ -1574,9 +1574,9 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2000,73,dr dre eminem,forget about dre,,,,
 2000,75,westlife,swear it again,,,,
 2000,84,goo goo dolls,broadway,,,,
-2000,87,lee ann womack  sons of the desert,i hope you dance,,,,
-2000,88,alice deejay,better off alone,,,,
-2000,89,debelah morgan,dance with me,,,,
+2000,87,lee ann womack  sons of desert,i hope you dance,,,,
+2000,88,alice deejay,better off alone,0.782,0.671,0.88,136.953
+2000,89,debelah morgan,dance with me,0.74,0.85,0.674,115.005
 2000,91,sammie,i like it,,,,
 2000,94,lil bow wow xscape,bounce with me,,,,
 2000,97,destinys child,independent women part i,,,,
@@ -1589,7 +1589,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2001,24,christina aguilera lil kim mya  pink,lady marmalade,,,,
 2001,28,dream,he loves u not,,,,
 2001,30,ja rule lil mo  vita,put it on me,,,,
-2001,32,lee ann womack  sons of the desert,i hope you dance,,,,
+2001,32,lee ann womack  sons of desert,i hope you dance,,,,
 2001,33,moby gwen stefani,south side,,,,
 2001,35,missy misdemeanor elliott,get ur freak on,,,,
 2001,38,janet,someone to call my lover,,,,
@@ -1605,7 +1605,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2001,77,ludacris,southern hospitality,,,,
 2001,81,isley brothers ronald isley aka mr biggs,contagious,,,,
 2001,92,edens crush,get over yourself,,,,
-2001,93,debelah morgan,dance with me,,,,
+2001,93,debelah morgan,dance with me,0.74,0.85,0.674,115.005
 2001,97,pink,most girls,,,,
 2001,98,qbs finest nas  bravehearts,oochie wally,,,,
 2002,1,nickelback,how your remind me,,,,
@@ -1622,7 +1622,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2002,38,tweet,oops,,,,
 2002,40,truth hurts rakim,addictive,,,,
 2002,43,pink,just like a pill,,,,
-2002,44,irv gotti presents the inc ja rule ashanti charli baltimore  vita,down  u,,,,
+2002,44,irv gotti presents inc ja rule ashanti charli baltimore  vita,down  u,,,,
 2002,48,musiq,halfcrazy,,,,
 2002,53,camron juelz santana freekey zekey  toya,hey ma,,,,
 2002,54,missy misdemeanor elliott,work it,,,,
@@ -1641,7 +1641,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2003,8,aaliyah,miss you,,,,
 2003,10,evanescence paul mccoy,bring me to life,,,,
 2003,13,nelly p diddy  murphy lee,shake ya tailfeather,,,,
-2003,17,busta rhymes  mariah carey the flipmode squad,i know what you want,,,,
+2003,17,busta rhymes  mariah carey flipmode squad,i know what you want,,,,
 2003,19,uncle kracker dobie gray,drift away,,,,
 2003,20,lil kim  cent,magic stick,,,,
 2003,22,bk  p diddy,bump bump bump,,,,
@@ -1693,16 +1693,16 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2004,71,snoop dogg pharrell,drop it like its hot,,,,
 2004,75,santana alex b or chad kroeger,why dont you  i,,,,
 2004,87,chingy ludacris  snoop dogg,holidae in,,,,
-2004,88,black eyed peas,lets get it started,,,,
+2004,88,black eyed peas,lets get it started,0.768,0.775,0.743,104.992
 2004,89,kenny chesney  uncle kracker,when the sun goes down,,,,
 2004,94,r kelly,happy people,,,,
 2005,5,ciara missy elliott,step,,,,
-2005,13,the black eyed peas,dont phunk with my heart,,,,
+2005,13,black eyed peas,dont phunk with my heart,0.604,0.69,0.928,130.889
 2005,14,missy elliott ciara  fat man scoop,lose control,,,,
 2005,23,snoop dogg pharrell,drop it like its hot,,,,
-2005,25,lil jon  the east side boyz usher  ludacris,lovers and friends,,,,
+2005,25,lil jon  east side boyz usher  ludacris,lovers and friends,,,,
 2005,26,destinys child ti  lil wayne,soldier,,,,
-2005,32,the black eyed peas,my humps,,,,
+2005,32,black eyed peas,my humps,0.586,0.802,0.682,123.95
 2005,33,frankie j baby bash,obsession,,,,
 2005,35,dht,listen to your heart,,,,
 2005,38,doors down,let me go,,,,
@@ -1713,29 +1713,29 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2005,53,ludacris bobby valentino,pimpin all over the world,,,,
 2005,54,usher and alicia keys,my boo,,,,
 2005,55,trick daddy ludacris lil kim  ceelo,sugar,,,,
-2005,69,mariah carey,its like that,,,,
+2005,69,mariah carey,its like that,0.836,0.8,0.633,95.953
 2005,71,carrie underwood,inside your heaven,,,,
 2005,78,cent mobb deep,outta control,,,,
-2005,81,the black eyed peas,dont lie,,,,
+2005,81,black eyed peas,dont lie,0.604,0.662,0.785,89.885
 2005,85,brooke valentine lil jon  big boi,girlfight,,,,
 2005,93,jayzlinkin park,numbencore,,,,
 2005,94,ja rule r kelly  ashanti,wonderful,,,,
 2005,97,foxy brown,u already know,,,,
 2006,9,justin timberlake,sexyback,,,,
 2006,11,mary j blige,be without you,,,,
-2006,15,the pussycat dolls snoop dogg,buttons,,,,
+2006,15,pussycat dolls snoop dogg,buttons,,,,
 2006,16,chris brown,run it,,,,
 2006,18,yung joc,its goin down,,,,
-2006,24,lil jon e  sean paul of the youngbloodz,snap yo fingers,,,,
+2006,24,lil jon e  sean paul of youngbloodz,snap yo fingers,,,,
 2006,25,dem franchize boyz lil peanut  charlay,lean wit it rock wit it,,,,
 2006,35,ludacris pharrell,money maker,,,,
 2006,36,bubba sparxxx ying yang twins  mr collipark,ms new booty,,,,
 2006,37,sean paul keyshia cole,give it up to me,,,,
 2006,41,tpain mike jones,in n luv,,,,
-2006,42,the black eyed peas,my humps,,,,
+2006,42,black eyed peas,my humps,0.586,0.802,0.682,123.95
 2006,43,fort minor holly brook,whered you go,,,,
 2006,52,e tpain  kandi girl,u and dat,,,,
-2006,56,cherish sean paul of the youngbloodz,do it to it,,,,
+2006,56,cherish sean paul of youngbloodz,do it to it,,,,
 2006,57,kt tunstall,black horse  the cherry tree,,,,
 2006,60,jamie foxx ludacris,unpredictable,,,,
 2006,64,kelis too hort,bossy,,,,
@@ -1743,7 +1743,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2006,71,bon jovi,who says you cant go home,,,,
 2006,85,dem franchize boyz jermaine dupri da brat  bow wow,i think they like me,,,,
 2006,88,young jeezy akon,soul survivor,,,,
-2006,89,the black eyed peas,pump it,,,,
+2006,89,black eyed peas,pump it,0.744,0.648,0.931,153.649
 2006,92,three  mafia young buck  eightball  mjg,stay fly,,,,
 2006,93,keyshia cole,love,,,,
 2006,96,pink,stupid girls,,,,
@@ -1759,7 +1759,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2007,51,lloyd,get it shawty,,,,
 2007,53,baby boy da prince lil boosie,the way i live,,,,
 2007,54,bow wow chris brown  johnta austin,shortie like mine,,,,
-2007,57,neyo,because of you,,,,
+2007,57,neyo,because of you,0.828,0.81,0.538,109.97
 2007,62,beyonce  shakira,beautiful liar,,,,
 2007,63,justin timberlake,sexyback,,,,
 2007,65,keyshia cole missy elliott  lil kim,let it go,,,,
@@ -1790,14 +1790,14 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2008,68,young jeezy kanye west,put on,,,,
 2008,70,three  mafia project pat young d  superpower,lolli lolli,,,,
 2008,91,lil wayne bobby valentino  kidd kidd,mrs officer,,,,
-2008,92,miley cyrus,things,,,,
+2008,92,miley cyrus,things,0.542,0.591,0.904,107.027
 2008,96,timbaland keri hilson,the way i are,,,,
 2008,100,pistols tpain  tay dizm,she got it,,,,
-2009,1,the black eyed peas,boom boom pow,,,,
-2009,4,the black eyed peas,i gotta feeling,,,,
+2009,1,black eyed peas,boom boom pow,0.402,0.867,0.857,130.048
+2009,4,black eyed peas,i gotta feeling,0.61,0.743,0.766,127.96
 2009,15,keri hilson kanye west  neyo,knock you down,,,,
 2009,19,soulja boy tell em sammie,kiss me thru the phone,,,,
-2009,30,oh,dont trust me,,,,
+2009,30,oh,dont trust me,0.711,0.757,0.629,129.946
 2009,31,jayz rihanna  kanye west,run this town,,,,
 2009,38,pink,sober,,,,
 2009,45,pink,so what,,,,
@@ -1821,9 +1821,9 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2010,19,mike posner,cooler than me,,,,
 2010,21,jayz  alicia keys,empire state of mind,,,,
 2010,28,keha,your love is my drug,,,,
-2010,35,nelly,just a dream,,,,
-2010,37,far east movement the cataracs  dev,like a g,,,,
-2010,40,flo rida david guetta,club cant handle me,,,,
+2010,35,nelly,just a dream,0.103,0.531,0.752,89.917
+2010,37,far east movement cataracs  dev,like a g,,,,
+2010,40,flo rida david guetta,club cant handle me,0.473,0.616,0.869,127.966
 2010,50,jayz  mr hudson,young forever,,,,
 2010,51,keha oh,blah blah blah,,,,
 2010,53,jay sean sean paul  lil jon,do you remember,,,,
@@ -1842,43 +1842,43 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2011,2,lmfao lauren bennett  goonrock,party rock anthem,,,,
 2011,5,pitbull neyo afrojack  nayer,give me everything,,,,
 2011,7,cee lo green,fk you,,,,
-2011,9,maroon  christina aguilera,moves like jagger,,,,
-2011,10,the black eyed peas,just cant get enough,,,,
+2011,9,maroon  christina aguilera,moves like jagger,0.599,0.72,0.751,128.017
+2011,10,black eyed peas,just cant get enough,0.246,0.482,0.661,94.001
 2011,16,enrique iglesias ludacris  dj frank e,tonight,,,,
 2011,21,chris brown lil wayne  busta rhymes,look at me now,,,,
 2011,30,keha,we r who we r,,,,
 2011,33,keha,blow,,,,
-2011,37,the black eyed peas,the time,,,,
+2011,37,black eyed peas,the time,0.509,0.828,0.794,127.987
 2011,42,lady antebellum,just a kiss,,,,
 2011,45,waka flocka flame roscoe dash  wale,no hands,,,,
 2011,47,dj khaled drake rick ross  lil wayne,im on one,,,,
 2011,51,dr dre eminem  skylar grey,i need a doctor,,,,
-2011,52,nelly,just a dream,,,,
+2011,52,nelly,just a dream,0.103,0.531,0.752,89.917
 2011,54,edward maya  vika jigulina,stereo love,,,,
 2011,58,fareast movement ryan tedder,rocketeer,,,,
 2011,61,usher,more,,,,
 2011,68,jason aldean with kelly clarkson,dont you wanna stay,,,,
 2011,72,fareast movement cataracs  dev,like a g,,,,
-2011,73,david guetta usher,without you,,,,
+2011,73,david guetta usher,without you,0.402,0.608,0.614,127.8845
 2011,82,brad paisley with carrie underwood,remind me,,,,
-2011,84,new boyz the cataracs  dev,backseat,,,,
+2011,84,new boyz cataracs  dev,backseat,,,,
 2011,88,david guetta flo rida  nicki minaj,where them girls at,,,,
-2012,24,david guetta sia,titanium,,,,
+2012,24,david guetta sia,titanium,0.301,0.604,0.7875000000000001,126.061
 2012,29,lmfao lauren bennett  goonrock,party rock anthem,,,,
 2012,32,snoop dogg  wiz khalifa bruno mars,young wild  free,,,,
-2012,35,david guetta nicki minaj,turn me on,,,,
-2012,36,maroon  christina aguilera,moves like jagger,,,,
+2012,35,david guetta nicki minaj,turn me on,0.412,0.704,0.793,127.96
+2012,36,maroon  christina aguilera,moves like jagger,0.599,0.72,0.751,128.017
 2012,38,owl city  carly rae jepsen,good time,,,,
 2012,40,jay z  kanye west,nias in paris,,,,
 2012,42,calvin harris,feel so close,,,,
-2012,50,david guetta usher,without you,,,,
+2012,50,david guetta usher,without you,0.402,0.608,0.614,127.8845
 2012,57,big sean nicki minaj,dance,,,,
 2012,62,pitbull,back in time,,,,
 2012,79,rihanna chris brown,birthday cake,,,,
 2012,85,keha,die young,,,,
 2012,86,tpain wiz khalifa  lily allen,oclock,,,,
 2012,92,cah out,cashin out,,,,
-2014,1,pharrell williams,happy,,,,
+2014,1,pharrell williams,happy,0.962,0.652,0.757,159.911
 2014,11,pitbull keha,timber,,,,
 2014,15,dj snake  lil jon,turn down for what,,,,
 2014,17,a great big world  christina aguilera,say something,,,,
@@ -1900,23 +1900,23 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2014,94,zedd hayley williams,stay the night,,,,
 2014,99,miranda lambert  carrie underwood,somethin bad,,,,
 2015,9,weeknd,earned it,,,,
-2015,10,weeknd,the hills,,,,
-2015,12,weeknd,cant feel my face,,,,
+2015,10,weeknd,the hills,0.109,0.356,0.567,135.553
+2015,12,weeknd,cant feel my face,0.588,0.7035,0.7695000000000001,107.94999999999999
 2015,13,ellie goulding,love me like you do,,,,
 2015,16,major lazer  dj snake m,lean on,,,,
 2015,19,skrillex  diplo with justin bieber,where are u now,,,,
 2015,24,omarion chris brown  jhene aiko,post to be,,,,
 2015,26,sam smith,"im not the only
 one",,,,
-2015,27,selena gomez aap rocky,good for you,,,,
+2015,27,selena gomez aap rocky,good for you,0.20650000000000002,0.5435,0.677,88.862
 2015,31,david guetta nicki minaj bebe rexha  afrojack,hey mama,,,,
-2015,32,flo rida sage the gemini  lookas,gdfr,,,,
+2015,32,flo rida sage gemini  lookas,gdfr,,,,
 2015,39,pitbull  neyo,time of our lives,,,,
 2015,42,rihanna kanye west  paul mccartney,fourfiveseconds,,,,
 2015,47,big sean e,i dont fk with you,,,,
 2015,48,rihanna,b better have my money,,,,
 2015,51,nicki minaj drake lil wayne  chris brown,only,,,,
-2015,56,ariana grande  the weeknd,love me harder,,,,
+2015,56,ariana grande  weeknd,love me harder,,,,
 2015,59,dj snake  alunageorge,you know you like it,,,,
 2015,66,nicki minaj drake  lil wayne,truffle butter,,,,
 2015,69,meek mill chris brown  nicki minaj,all eyes on you,,,,
@@ -1928,14 +1928,14 @@ one",,,,
 2015,96,nicky jam  enrique iglesias,el perdon,,,,
 2015,100,calvin harris  disciples,how deep is your love,,,,
 2016,3,drake wizkid  kyla,one dance,,,,
-2016,8,chainsmokers daya,dont let me down,,,,
-2016,10,chainsmokers halsey,closer,,,,
-2016,16,fifth harmony ty dolla ign,work from home,,,,
+2016,8,chainsmokers daya,dont let me down,0.4125,0.537,0.864,159.8
+2016,10,chainsmokers halsey,closer,0.661,0.748,0.524,95.01
+2016,16,fifth harmony ty dolla ign,work from home,0.593,0.803,0.585,105.017
 2016,19,geazy x bebe rexha,me myself and i,,,,
 2016,25,major lazer justin bieber  mo,cold water,,,,
-2016,27,chainsmokers rozes,roses,,,,
-2016,30,future the weeknd,low life,,,,
-2016,32,weeknd,the hills,,,,
+2016,27,chainsmokers rozes,roses,0.343,0.713,0.802,100.001
+2016,30,future weeknd,low life,,,,
+2016,32,weeknd,the hills,0.109,0.356,0.567,135.553
 2016,33,pink,just like fire,,,,
 2016,37,drake  future,jumpman,,,,
 2016,46,zara larsson  mnek,never forget you,,,,
@@ -1945,7 +1945,7 @@ lyraics",,,,
 2016,63,elle king,exs and ohs,,,,
 2016,68,lil wayne wi,sucker for pain,,,,
 2016,69,yo gotti nicki minaj,down in the dm,,,,
-2016,72,weeknd,cant feel my face,,,,
+2016,72,weeknd,cant feel my face,0.588,0.7035,0.7695000000000001,107.94999999999999
 2016,85,major lazer  dj snake mo,lean on,,,,
 2016,86,shawn mendes  camila cabello,i know what you did last summer,,,,
 2016,87,fat joe rem,all the way up,,,,
