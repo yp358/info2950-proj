@@ -216,7 +216,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1962,15,neil sedaka,breaking up is hard to do,0.966,0.742,0.6629999999999999,116.525
 1962,16,claude king,wolverton mountain,0.8605,0.643,0.355,157.41699999999997
 1962,17,chubby checker,slow twistin,0.924,0.804,0.6890000000000001,120.279
-1962,18,johnny tillotson,it keeps right on ahurtin,0.546,0.452,0.303,100.858
+1962,18,johnny tillotson,it keeps right on ahurtin,,,,
 1962,19,mary wells,the one who really loves you,0.916,0.7240000000000001,0.597,115.891
 1962,20,elvis presley,good luck charm,0.904,0.618,0.467,121.646
 1962,21,kenny ball,midnight in moscow,0.915,0.53,0.402,166.266
@@ -340,7 +340,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1963,39,essex,easier said than done,,,,
 1963,40,dion,ruby baby,0.599,0.6459999999999999,0.579,121.728
 1963,41,los indios tabajaras,maria elena,0.591,0.665,0.0989,83.605
-1963,42,ruby  the romantics,our day will come,,,,
+1963,42,ruby  the romantics,our day will come,0.718,0.5379999999999999,0.625,92.422
 1963,43,skeeter davis,i cant stay mad at you,0.816,0.543,0.763,120.62
 1963,44,barbara lewis,hello stranger,0.835,0.589,0.3174999999999999,102.46
 1963,45,ronettes,be my baby,0.818,0.511,0.769,129.657
@@ -428,7 +428,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1964,27,gene pitney,it hurts to be in love,0.8809999999999999,0.591,0.662,129.955
 1964,28,jan  dean,dead mans curve,,,,
 1964,29,jay  the americans,come a little bit closer,0.8639999999999999,0.615,0.7,132.409
-1964,30,peter  gordon,a world without love,,,,
+1964,30,peter  gordon,a world without love,0.752,0.512,0.6579999999999999,129.861
 1964,31,honeycombs,have i the right,0.527,0.368,0.891,142.216
 1964,32,serendipity singers,dont let the rain come down,0.661,0.786,0.383,128.9605
 1964,33,supremes,baby love,,,,
@@ -573,7 +573,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1965,72,sonny  cher,baby dont go,0.552,0.54,0.4920000000000001,121.832
 1965,73,turtles,it aint me babe,,,,
 1965,74,zombies,tell her no,,,,
-1965,75,peter  gordon,i go to pieces,,,,
+1965,75,peter  gordon,i go to pieces,0.897,0.579,0.618,112.07
 1965,76,vic dana,red roses for a blue lady,0.475,0.353,0.362,110.045
 1965,77,patty duke,dont just stand there,0.513,0.5539999999999999,0.375,83.29299999999998
 1965,78,miracles,the tracks of my tears,,,,
@@ -964,7 +964,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1969,63,booker t  the mgs,time is tight,0.5855,0.635,0.322,106.3085
 1969,64,dionne warwick,this girls in love with you,0.248,0.575,0.196,83.495
 1969,65,winstons,color him father,,,,
-1969,66,sonny charles  the checkmates ltd,black pearl,,,,
+1969,66,sonny charles  the checkmates ltd,black pearl,0.804,0.378,0.759,95.121
 1969,67,fruitgum company,indian giver,,,,
 1969,68,james brown,mother popcorn,,,,
 1969,69,edwin starr,twentyfive miles,,,,
@@ -1132,7 +1132,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1971,31,george harrison,my sweet lord  isnt it a pity,,,,
 1971,32,donny osmond,sweet and innocent,0.969,0.762,0.7859999999999999,125.524
 1971,33,ocean,put your hand in the hand,0.978,0.833,0.475,136.384
-1971,34,daddy dewdrop,chickaboom,0.964,0.781,0.734,124.55
+1971,34,daddy dewdrop,chickaboom,,,,
 1971,35,carpenters,for all we know,,,,
 1971,36,sammi smith,help me make it through the night,0.413,0.5589999999999999,0.35,78.035
 1971,37,carpenters,rainy days and mondays,0.218,0.351,0.235,74.72
@@ -1195,7 +1195,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1971,94,doors,love her madly,0.966,0.565,0.587,147.462
 1971,95,richie havens,here comes the sun,0.7140000000000001,0.698,0.643,128.22
 1971,96,wadsworth mansion,sweet mary,,,,
-1971,97,brenda  the tabulations,right on the tip of my tongue,,,,
+1971,97,brenda  the tabulations,right on the tip of my tongue,0.736,0.503,0.62,156.243
 1971,98,fifth dimension,one less bell to answer,,,,
 1971,99,doors,riders on the storm,0.716,0.55,0.722,103.886
 1971,100,perry como,its impossible,0.346,0.281,0.374,141.37
@@ -1318,7 +1318,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1973,17,dobie gray,drift away,0.565,0.508,0.46,75.836
 1973,18,sweet,little willy,0.914,0.662,0.772,127.025
 1973,19,stevie wonder,you are the sunshine of my life,0.6859999999999999,0.519,0.47,132.033
-1973,20,cher,half breed,,,,
+1973,20,cher,half breed,0.877,0.646,0.467,102.704
 1973,21,isley bros,that lady,,,,
 1973,22,sylvia,pillow talk,0.6759999999999999,0.7190000000000001,0.5720000000000001,109.515
 1973,23,gr funk railroad,were an american band,,,,
@@ -1404,7 +1404,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1974,3,love unlimited orchestra,loves theme,0.712,0.589,0.61,97.072
 1974,4,redbone,come and get your love,0.841,0.661,0.763,105.6685
 1974,5,jackson,dancing machine,,,,
-1974,6,gr funk railroad,the locomotion,0.279,0.483,0.95,124.694
+1974,6,gr funk railroad,the locomotion,,,,
 1974,7,mfsb,tsop,,,,
 1974,8,ray stevens,the streak,0.791,0.685,0.521,119.813
 1974,9,elton john,bennie and the jets,0.7515000000000001,0.6539999999999999,0.7275,131.92000000000002
@@ -2247,7 +2247,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1982,46,roberta flack,making love,,,,
 1982,47,juice newton,loves been a little bit hard on me,0.936,0.608,0.772,144.489
 1982,48,rod stewart,young turks,0.7404999999999999,0.628,0.778,160.724
-1982,49,j geils band,freezeframe,0.934,0.573,0.806,186.328
+1982,49,j geils band,freezeframe,,,,
 1982,50,reo speedwagon,keep the fire burnin,0.777,0.445,0.818,104.531
 1982,51,huey lewis  the news,do you believe in love,0.816,0.547,0.636,114.061
 1982,52,paul davis,cool night,0.647,0.5740000000000001,0.5255000000000001,107.5005
@@ -3118,7 +3118,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1991,17,jesus jones,right here right now,0.723,0.657,0.608,106.862
 1991,18,color me badd,i adore mi amor,0.725,0.6829999999999999,0.476,91.989
 1991,19,janet jackson,love will never do,0.551,0.7390000000000001,0.951,103.17
-1991,20,marky mark  the funky bunch loleatta holloway,good vibrations,,,,
+1991,20,marky mark  the funky bunch loleatta holloway,good vibrations,0.903,0.711,0.951,121.656
 1991,21,madonna,justify my love,0.503,0.698,0.662,99.661
 1991,22,mariah carey,emotions,0.942,0.741,0.752,114.851
 1991,23,roxette,joyride,0.7340000000000001,0.631,0.77,102.348
@@ -3267,7 +3267,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 1992,66,michael jackson,in the closet,0.622,0.8759999999999999,0.782,110.494
 1992,67,arrested development,people everyday,0.7995000000000001,0.8415000000000001,0.5585,85.565
 1992,68,genesis,no son of nine,,,,
-1992,69,marky mark and the funky bunch,wildside,0.271,0.767,0.356,105.404
+1992,69,marky mark and the funky bunch,wildside,,,,
 1992,70,bryan adams,do i have to say the words,0.47,0.505,0.585,128.05100000000002
 1992,71,cure,friday im in love,0.458,0.553,0.946,135.977
 1992,72,ugly kid joe,everything about you,0.7404999999999999,0.5115000000000001,0.7965,122.5215
@@ -4152,7 +4152,7 @@ Year,Rank,Artist,Song,valence,danceability,energy,tempo
 2001,51,n sync,this i promise you,,,,
 2001,52,jayz,izzo,0.6970000000000001,0.618,0.8440000000000001,84.411
 2001,53,lil mo fabolous,superwoman pt ii,,,,
-2001,54,evan and jaron,crazy for this girl,0.4135,0.4555,0.923,94.0175
+2001,54,evan and jaron,crazy for this girl,,,,
 2001,55,ricky martin  christina aguilera,nobody wants to be lonely,,,,
 2001,56,jayz,i just wanna love u,0.8009999999999999,0.8,0.922,98.631
 2001,57,missy misdemeanor elliott,one minute man,,,,
